@@ -1,0 +1,167 @@
+[
+  {
+    "question": "What is the wavelength of the laser beams used by the GEDI instrument?",
+    "answer": "1064 nm",
+    "context": "From the document: Each laser beam is transmitted at a wavelength of 1064 nm.",
+    "keywords": [
+      "wavelength",
+      "laser beams",
+      "GEDI"
+    ],
+    "difficulty": "easy",
+    "mission_id": "iss-gedi",
+    "question_type": "numerical",
+    "question_id": "cca24c35",
+    "relevant_docs": [
+      "iss-gedi"
+    ]
+  },
+  {
+    "question": "How many total exit beams are produced by the GEDI instrument?",
+    "answer": "Four exit beams",
+    "context": "From the document: Two beams are operated at maximum power, while the third is split into two beams, creating four exit beams in total.",
+    "keywords": [
+      "exit beams",
+      "GEDI",
+      "lasers"
+    ],
+    "difficulty": "medium",
+    "mission_id": "iss-gedi",
+    "question_type": "numerical",
+    "question_id": "89eef8e5",
+    "relevant_docs": [
+      "iss-gedi"
+    ]
+  },
+  {
+    "question": "What is the total across-track swath width observed by GEDI?",
+    "answer": "5.4 km",
+    "context": "From the document: This achieves a total across-track swath width of 5.4 km.",
+    "keywords": [
+      "swath width",
+      "GEDI",
+      "measurement"
+    ],
+    "difficulty": "medium",
+    "mission_id": "iss-gedi",
+    "question_type": "numerical",
+    "question_id": "bc3e6c5a",
+    "relevant_docs": [
+      "iss-gedi"
+    ]
+  },
+  {
+    "question": "How many scientific instruments were onboard the ADEOS satellite?",
+    "answer": "Eight scientific instruments.",
+    "context": "From the document: 'ADEOS contained eight scientific instruments.'",
+    "keywords": [
+      "scientific instruments",
+      "ADEOS"
+    ],
+    "difficulty": "easy",
+    "mission_id": "adeos",
+    "question_type": "numerical",
+    "question_id": "38e2f4b6",
+    "relevant_docs": [
+      "adeos"
+    ]
+  },
+  {
+    "question": "What was the duration of the ADEOS mission from launch to end of life in days?",
+    "answer": "348 days.",
+    "context": "From the document: 'Launch date: 17 Aug 1996, End of life date: 30/06/1997.' The duration is calculated as 30 June 1997 - 17 August 1996.",
+    "keywords": [
+      "mission duration",
+      "launch date",
+      "end of life date"
+    ],
+    "difficulty": "medium",
+    "mission_id": "adeos",
+    "question_type": "numerical",
+    "question_id": "6e9fd5c0",
+    "relevant_docs": [
+      "adeos"
+    ]
+  },
+  {
+    "question": "What was the launch date of the ADEOS satellite?",
+    "answer": "17 August 1996.",
+    "context": "From the document: 'Launch date: 17 Aug 1996.'",
+    "keywords": [
+      "launch date",
+      "ADEOS"
+    ],
+    "difficulty": "easy",
+    "mission_id": "adeos",
+    "question_type": "numerical",
+    "question_id": "67f5ebb2",
+    "relevant_docs": [
+      "adeos"
+    ]
+  },
+  {
+    "question": "On what date was the EMM Hope Probe launched?",
+    "answer": "The EMM Hope Probe was launched on July 19, 2020.",
+    "context": "From the document: 'Launch date 19 Jul 2020'",
+    "keywords": [
+      "launch date",
+      "EMM Hope Probe"
+    ],
+    "difficulty": "easy",
+    "mission_id": "emm-hope",
+    "question_type": "numerical",
+    "question_id": "d2a9d9eb",
+    "relevant_docs": [
+      "emm-hope"
+    ]
+  },
+  {
+    "question": "In which year is the EMM Hope Probe expected to enter Mars' orbit?",
+    "answer": "The EMM Hope Probe is expected to enter Mars' orbit in 2021.",
+    "context": "From the document: 'the probe is expected to enter the Red Planet\u2019s orbit in 2021'",
+    "keywords": [
+      "Mars orbit",
+      "2021"
+    ],
+    "difficulty": "easy",
+    "mission_id": "emm-hope",
+    "question_type": "numerical",
+    "question_id": "a6994c83",
+    "relevant_docs": [
+      "emm-hope"
+    ]
+  },
+  {
+    "question": "How many months is the journey of the EMM Hope Probe expected to take before reaching Mars?",
+    "answer": "The journey of the EMM Hope Probe is expected to take several months.",
+    "context": "From the document: 'Following a journey of several months, the probe is expected to enter the Red Planet\u2019s orbit in 2021'",
+    "keywords": [
+      "journey duration",
+      "Mars"
+    ],
+    "difficulty": "medium",
+    "mission_id": "emm-hope",
+    "question_type": "numerical",
+    "question_id": "dfb9432a",
+    "relevant_docs": [
+      "emm-hope"
+    ]
+  },
+  {
+    "question": "How many years has the Suomi NPP mission been operational as of October 2023?",
+    "answer": "12 years",
+    "context": "From the document: Suomi NPP was launched on 28 Oct 2011 and is operational (extended).",
+    "keywords": [
+      "Suomi NPP",
+      "operational",
+      "years"
+    ],
+    "difficulty": "medium",
+    "mission_id": "suomi-npp",
+    "question_type": "numerical",
+    "question_id": "f30501de",
+    "relevant_docs": [
+      "suomi-npp"
+    ]
+  }
+]

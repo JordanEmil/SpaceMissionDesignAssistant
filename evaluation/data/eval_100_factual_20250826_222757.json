@@ -1,0 +1,341 @@
+[
+  {
+    "question": "When was the GEDI mission launched?",
+    "answer": "The GEDI mission was launched on December 5, 2018.",
+    "context": "From the document: 'Launch date 05 Dec 2018'",
+    "keywords": [
+      "GEDI",
+      "launch date",
+      "December 5, 2018"
+    ],
+    "difficulty": "easy",
+    "mission_id": "iss-gedi",
+    "question_type": "factual",
+    "question_id": "849d3361",
+    "relevant_docs": [
+      "iss-gedi"
+    ]
+  },
+  {
+    "question": "What type of instrument does GEDI use to collect data?",
+    "answer": "GEDI uses a LIDAR (light detection and ranging) imaging instrument.",
+    "context": "From the document: 'GEDI utilises a LIDAR (light detection and ranging) imaging instrument...'",
+    "keywords": [
+      "GEDI",
+      "LIDAR",
+      "instrument"
+    ],
+    "difficulty": "medium",
+    "mission_id": "iss-gedi",
+    "question_type": "factual",
+    "question_id": "ca450431",
+    "relevant_docs": [
+      "iss-gedi"
+    ]
+  },
+  {
+    "question": "What is the altitude at which GEDI operates on the ISS?",
+    "answer": "GEDI operates at an altitude of 407 km.",
+    "context": "From the document: 'GEDI orbits the earth with a period of 93 minutes, observing from an altitude of 407 km.'",
+    "keywords": [
+      "GEDI",
+      "altitude",
+      "407 km"
+    ],
+    "difficulty": "easy",
+    "mission_id": "iss-gedi",
+    "question_type": "factual",
+    "question_id": "00bdad3f",
+    "relevant_docs": [
+      "iss-gedi"
+    ]
+  },
+  {
+    "question": "What was the launch date of the ADEOS mission?",
+    "answer": "The launch date of the ADEOS mission was 17 August 1996.",
+    "context": "From the document: 'Launch date 17 Aug 1996'",
+    "keywords": [
+      "launch date",
+      "ADEOS",
+      "mission"
+    ],
+    "difficulty": "easy",
+    "mission_id": "adeos",
+    "question_type": "factual",
+    "question_id": "3b06dd93",
+    "relevant_docs": [
+      "adeos"
+    ]
+  },
+  {
+    "question": "Which agency was primarily responsible for the ADEOS mission?",
+    "answer": "The primary agency responsible for the ADEOS mission was JAXA (Japan Aerospace Exploration Agency).",
+    "context": "From the document: 'Agency JAXA, NASA, CNES, MOE (Japan), MITI (Japan)'",
+    "keywords": [
+      "JAXA",
+      "agency",
+      "ADEOS"
+    ],
+    "difficulty": "medium",
+    "mission_id": "adeos",
+    "question_type": "factual",
+    "question_id": "ba3790fa",
+    "relevant_docs": [
+      "adeos"
+    ]
+  },
+  {
+    "question": "What were the main objectives of the ADEOS mission?",
+    "answer": "The main objectives of the ADEOS mission were to observe changes in the Earth\u2019s atmosphere, track depletion of the ozone layer, and model maritime meteorological conditions.",
+    "context": "From the document: 'The satellite\u2019s objectives were to observe changes in the Earth\u2019s atmosphere, track depletion of the ozone layer and model maritime meteorological conditions.'",
+    "keywords": [
+      "objectives",
+      "ADEOS",
+      "Earth observation"
+    ],
+    "difficulty": "medium",
+    "mission_id": "adeos",
+    "question_type": "factual",
+    "question_id": "65d98c76",
+    "relevant_docs": [
+      "adeos"
+    ]
+  },
+  {
+    "question": "What is the launch date of the EMM Hope Probe?",
+    "answer": "The launch date of the EMM Hope Probe is July 19, 2020.",
+    "context": "From the document: 'Launch date 19 Jul 2020'",
+    "keywords": [
+      "launch date",
+      "EMM Hope Probe"
+    ],
+    "difficulty": "easy",
+    "mission_id": "emm-hope",
+    "question_type": "factual",
+    "question_id": "03a533a3",
+    "relevant_docs": [
+      "emm-hope"
+    ]
+  },
+  {
+    "question": "Which organizations are involved in the development of the EMM Hope Probe?",
+    "answer": "The organizations involved in the development of the EMM Hope Probe include the Mohammed Bin Rashid Space Center (MBRSC), the University of Colorado, Arizona State University, and the University of California, Berkeley.",
+    "context": "From the document: 'It is being built by the Mohammed Bin Rashid Space Center (MBRSC) of Dubai, UAE along with its partners: the University of Colorado, Arizona State University, and the University of California, Berkeley.'",
+    "keywords": [
+      "organizations",
+      "development",
+      "EMM Hope Probe"
+    ],
+    "difficulty": "medium",
+    "mission_id": "emm-hope",
+    "question_type": "factual",
+    "question_id": "67fabf7a",
+    "relevant_docs": [
+      "emm-hope"
+    ]
+  },
+  {
+    "question": "What scientific questions is the EMM Hope Probe aiming to answer?",
+    "answer": "The EMM Hope Probe aims to answer questions about why Mars' atmosphere is losing hydrogen and oxygen into space and the reasons behind Mars' drastic climate changes.",
+    "context": "From the document: 'It will attempt to answer the scientific questions of why Mars' atmosphere is losing hydrogen and oxygen into space and the reason behind Mars' drastic climate changes.'",
+    "keywords": [
+      "scientific questions",
+      "Mars atmosphere",
+      "climate changes"
+    ],
+    "difficulty": "hard",
+    "mission_id": "emm-hope",
+    "question_type": "factual",
+    "question_id": "841e8920",
+    "relevant_docs": [
+      "emm-hope"
+    ]
+  },
+  {
+    "question": "What is the primary purpose of the Suomi NPP mission?",
+    "answer": "The primary purpose of the Suomi NPP mission is to demonstrate sensor capabilities and provide data continuity to previous Earth Observing System (EOS) missions.",
+    "context": "From the document: 'Suomi NPP is a weather satellite aimed at demonstrating sensor capabilities, as well as provide data continuity to previous Earth Observing System (EOS) missions initiated by the National Aeronautics and Space Administration (NASA).'",
+    "keywords": [
+      "Suomi NPP",
+      "mission purpose",
+      "sensor capabilities"
+    ],
+    "difficulty": "easy",
+    "mission_id": "suomi-npp",
+    "question_type": "factual",
+    "question_id": "d42eca7d",
+    "relevant_docs": [
+      "suomi-npp"
+    ]
+  },
+  {
+    "question": "Which agencies operate the Suomi NPP satellite?",
+    "answer": "The Suomi NPP satellite is operated by NASA and the National Oceanic and Atmospheric Administration (NOAA).",
+    "context": "From the document: 'Suomi NPP is operated by NASA and the National Oceanic and Atmospheric Administration (NOAA)...'",
+    "keywords": [
+      "NASA",
+      "NOAA",
+      "operating agencies"
+    ],
+    "difficulty": "easy",
+    "mission_id": "suomi-npp",
+    "question_type": "factual",
+    "question_id": "f6d4e2a5",
+    "relevant_docs": [
+      "suomi-npp"
+    ]
+  },
+  {
+    "question": "When was the Suomi NPP satellite launched?",
+    "answer": "The Suomi NPP satellite was launched on October 28, 2011.",
+    "context": "From the document: 'Launch date: 28 Oct 2011'",
+    "keywords": [
+      "launch date",
+      "October 2011",
+      "Suomi NPP"
+    ],
+    "difficulty": "easy",
+    "mission_id": "suomi-npp",
+    "question_type": "factual",
+    "question_id": "209d67b9",
+    "relevant_docs": [
+      "suomi-npp"
+    ]
+  },
+  {
+    "question": "What was the launch date of the ST5 mission?",
+    "answer": "The launch date of the ST5 mission was 22 March 2006.",
+    "context": "From the document: 'Launch date 22 Mar 2006'",
+    "keywords": [
+      "launch date",
+      "ST5",
+      "Space Technology 5"
+    ],
+    "difficulty": "easy",
+    "mission_id": "st5",
+    "question_type": "factual",
+    "question_id": "f2aa0c49",
+    "relevant_docs": [
+      "st5"
+    ]
+  },
+  {
+    "question": "What was the primary objective of the ST5 mission?",
+    "answer": "The primary objective of the ST5 mission was to measure the effect of solar activity on the Earth's magnetosphere.",
+    "context": "From the document: 'The science objectives are to measure the effect of solar activity on the Earth's magnetosphere.'",
+    "keywords": [
+      "objective",
+      "solar activity",
+      "magnetosphere"
+    ],
+    "difficulty": "medium",
+    "mission_id": "st5",
+    "question_type": "factual",
+    "question_id": "63e2a964",
+    "relevant_docs": [
+      "st5"
+    ]
+  },
+  {
+    "question": "How many spacecraft were involved in the ST5 mission?",
+    "answer": "The ST5 mission involved a constellation of three spacecraft.",
+    "context": "From the document: 'ST5 is a NASA mission within NMP (New Millennium Program) to test innovative concepts and new technologies for future missions in a microsatellite constellation of three spacecraft.'",
+    "keywords": [
+      "spacecraft",
+      "constellation",
+      "ST5"
+    ],
+    "difficulty": "easy",
+    "mission_id": "st5",
+    "question_type": "factual",
+    "question_id": "d1440325",
+    "relevant_docs": [
+      "st5"
+    ]
+  },
+  {
+    "question": "What was the launch date of the GeneSat-1 nanosatellite?",
+    "answer": "The launch date of the GeneSat-1 nanosatellite was December 16, 2006.",
+    "context": "From the document: 'Launch date 16 Dec 2006'",
+    "keywords": [
+      "launch date",
+      "GeneSat-1",
+      "December 16, 2006"
+    ],
+    "difficulty": "easy",
+    "mission_id": "genesat",
+    "question_type": "factual",
+    "question_id": "44d5b178",
+    "relevant_docs": [
+      "genesat"
+    ]
+  },
+  {
+    "question": "What is the mass of the GeneSat-1 nanosatellite?",
+    "answer": "The mass of the GeneSat-1 nanosatellite is about 4.1 kg.",
+    "context": "From the document: 'the entire satellite is about 100 mm x 100 mm x 340 mm in size with a mass of about 4.1 kg.'",
+    "keywords": [
+      "mass",
+      "GeneSat-1",
+      "4.1 kg"
+    ],
+    "difficulty": "easy",
+    "mission_id": "genesat",
+    "question_type": "factual",
+    "question_id": "347708ad",
+    "relevant_docs": [
+      "genesat"
+    ]
+  },
+  {
+    "question": "What was one of the specific mission requirements for GeneSat-1?",
+    "answer": "One specific mission requirement was to develop and test a flight-ready autonomous technology demonstration platform and to design advanced sensors to exploit cellular or microscopic organisms in a small form factor.",
+    "context": "From the document: 'Specific mission requirements are: 1) To develop and test a flight-ready autonomous technology demonstration platform and to design advanced sensors to exploit cellular or microscopic organisms in a small form factor (miniaturized systems).'",
+    "keywords": [
+      "mission requirements",
+      "autonomous technology",
+      "sensors"
+    ],
+    "difficulty": "medium",
+    "mission_id": "genesat",
+    "question_type": "factual",
+    "question_id": "2e49387e",
+    "relevant_docs": [
+      "genesat"
+    ]
+  },
+  {
+    "question": "What is the primary purpose of the OCO-3 mission?",
+    "answer": "The primary purpose of the OCO-3 mission is to monitor carbon dioxide and its changes throughout space and time in response to growing populations and varying patterns of fossil fuel consumption.",
+    "context": "From the document: 'OCO-3 monitors carbon dioxide and its changes throughout space and time in response to growing populations and varying patterns of fossil fuel consumption.'",
+    "keywords": [
+      "OCO-3",
+      "carbon dioxide",
+      "monitoring"
+    ],
+    "difficulty": "easy",
+    "mission_id": "iss-oco-3",
+    "question_type": "factual",
+    "question_id": "93940125",
+    "relevant_docs": [
+      "iss-oco-3"
+    ]
+  },
+  {
+    "question": "What instruments does OCO-3 use to measure atmospheric gases?",
+    "answer": "OCO-3 consists of three spectrometers that measure the intensity of sunlight reflected from the Earth's surface to calculate the abundance of carbon dioxide and oxygen in the atmosphere.",
+    "context": "From the document: 'OCO-3 consists of three spectrometers that measure the intensity of sunlight reflected from the Earth's surface. Carbon dioxide and oxygen absorb light at different wavelengths and as such, the abundance of both molecules in the atmosphere can be calculated by measuring the intensity of different wavelength bands.'",
+    "keywords": [
+      "spectrometers",
+      "atmospheric gases",
+      "OCO-3"
+    ],
+    "difficulty": "medium",
+    "mission_id": "iss-oco-3",
+    "question_type": "factual",
+    "question_id": "f1ac1852",
+    "relevant_docs": [
+      "iss-oco-3"
+    ]
+  }
+]

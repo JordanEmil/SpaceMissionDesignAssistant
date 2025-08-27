@@ -1,0 +1,87 @@
+[
+  {
+    "question": "How does GEDI's laser technology contribute to understanding changes in natural carbon storage?",
+    "answer": "GEDI uses laser-based technology to produce elevation profiles of the Earth\u2019s forests, which helps link forest structure to habitat quality and provides insights into changes in natural carbon storage within the carbon cycle.",
+    "context": "From the document: GEDI uses laser-based technology to produce elevation profiles of the Earth\u2019s forests and link this to habitat quality... The data will give scientists a better understanding of changes to natural carbon storage within the carbon cycle.",
+    "keywords": [
+      "GEDI",
+      "laser technology",
+      "carbon storage"
+    ],
+    "difficulty": "medium",
+    "mission_id": "iss-gedi",
+    "question_type": "causal",
+    "question_id": "56358f65",
+    "relevant_docs": [
+      "iss-gedi"
+    ]
+  },
+  {
+    "question": "What impact does the operational status of GEDI have on the collection of forest canopy data?",
+    "answer": "The operational status of GEDI allows for the collection of forest canopy data, which was paused in March 2023 but resumed nominal science operations with all three lasers on June 11, 2024.",
+    "context": "From the document: GEDI operations were paused in March 2023, and resumed nominal science operations with all three lasers on June 11, 2024.",
+    "keywords": [
+      "operational status",
+      "forest canopy data",
+      "GEDI"
+    ],
+    "difficulty": "medium",
+    "mission_id": "iss-gedi",
+    "question_type": "causal",
+    "question_id": "4a310bae",
+    "relevant_docs": [
+      "iss-gedi"
+    ]
+  },
+  {
+    "question": "What are the consequences of GEDI's ability to observe a range of climates on ecological research?",
+    "answer": "GEDI's ability to observe a range of climates, including forest canopy structure and tundra environments, allows for comprehensive ecological research and enhances understanding of diverse ecosystems and their responses to climate change.",
+    "context": "From the document: The instrument will study a range of climates including forest canopy structure and tundra environments in the northern latitudes.",
+    "keywords": [
+      "climate observation",
+      "ecological research",
+      "GEDI"
+    ],
+    "difficulty": "hard",
+    "mission_id": "iss-gedi",
+    "question_type": "causal",
+    "question_id": "6c393a1f",
+    "relevant_docs": [
+      "iss-gedi"
+    ]
+  },
+  {
+    "question": "How did the ADEOS mission contribute to tracking the depletion of the ozone layer?",
+    "answer": "The ADEOS mission contributed to tracking the depletion of the ozone layer by utilizing the Total Ozone Mapping Spectrometer (TOMS), which measured the albedo of Earth's upper atmosphere to analyze the composition of the ozone layer.",
+    "context": "From the document: 'The Total Ozone Mapping Spectrometer (TOMS) tracked the composition of Earth's ozone layer by measuring the albedo of earth\u2019s upper atmosphere.'",
+    "keywords": [
+      "ADEOS",
+      "ozone layer",
+      "TOMS"
+    ],
+    "difficulty": "medium",
+    "mission_id": "adeos",
+    "question_type": "causal",
+    "question_id": "c5fef1ed",
+    "relevant_docs": [
+      "adeos"
+    ]
+  },
+  {
+    "question": "What was the impact of ADEOS's ocean color instruments on understanding maritime meteorological conditions?",
+    "answer": "ADEOS's ocean color instruments, particularly the Ocean Colour and Temperature Scanner (OCTS), provided critical data on ocean color and sea surface temperature, which are essential for modeling maritime meteorological conditions.",
+    "context": "From the document: 'The Ocean Colour and Temperature Scanner (OCTS) was a whiskbroom radiometer, measuring ocean colour and sea surface temperature.'",
+    "keywords": [
+      "ADEOS",
+      "ocean color",
+      "maritime meteorological conditions"
+    ],
+    "difficulty": "medium",
+    "mission_id": "adeos",
+    "question_type": "causal",
+    "question_id": "62ff8ce4",
+    "relevant_docs": [
+      "adeos"
+    ]
+  }
+]

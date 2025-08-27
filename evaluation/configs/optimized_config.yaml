@@ -1,0 +1,66 @@
+# Optimized Evaluation Configuration
+# Uses existing synthetic data with reduced parameter combinations
+
+# Data Generation Settings (Using 100-question generator)
+data_generation:
+  total_questions: 100
+  llm_model: "gpt-4o-mini"
+  temperature: 0.1  # Low temperature for consistent, high-quality questions
+
+# Parameter Sweep Configuration - OPTIMIZED
+parameter_sweep:
+  # Strategic parameter selection to reduce from 180 to ~8 combinations
+  top_k_values: [3, 5, 10]  # Most common values (was [3, 5, 10, 20])
+  similarity_thresholds: [0.35, 0.5, 0.7]  # Mid-range values (was [0.0, 0.2, 0.35, 0.5, 0.7])
+  temperature_values: [0.0, 0.1, 0.5]  # Single value (was [0.0, 0.3, 0.7])
+  response_modes: ["compact"]  # Fastest modes (was ["compact", "refine", "tree_summarize"])
+  llm_models: ["gpt-4o-mini"]  # Just the cheaper model (was ["gpt-4o-mini", "gpt-4o"])
+  embedding_models: ["text-embedding-3-large"]  # Already using this (was ["text-embedding-3-small", "text-embedding-3-large"])
+
+# Evaluation Settings
+evaluation:
+  evaluation_llm_model: "gpt-4o-mini"  # Changed from gpt-4o for cost savings
+  batch_size: 10
+  sample_size: 20  # Evaluate all 100 questions
+  
+  # Keep ALL metrics as requested
+  metrics:
+    retrieval:
+      - precision_at_k
+      - recall_at_k
+      - f1_at_k
+      - map
+      - mrr
+      - ndcg_at_k
+      - hit_rate
+    generation:
+      # LlamaIndex metrics
+      - correctness
+      - relevancy
+      - faithfulness
+      - semantic_similarity
+      - guideline_adherence
+      # RAGAS metrics
+      - ragas_faithfulness
+      - ragas_answer_relevancy
+      - ragas_context_relevancy
+      - ragas_context_recall
+      - ragas_context_precision
+      - ragas_answer_similarity
+      - ragas_answer_correctness
+      # Text metrics
+      - bleu
+      - rouge
+      - exact_match
+      - f1_token
+
+# System Settings
+system:
+  chroma_persist_dir: "../chroma_db"
+  rag_documents_dir: "../rag_ready_data/combined_documents"
+  output_dir: "results"
+  plots_dir: "plots"
+  data_dir: "data"
+  log_level: "INFO"
+  max_concurrent_evaluations: 10
+  request_delay_ms: 100

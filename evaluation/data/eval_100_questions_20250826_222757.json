@@ -1,0 +1,1720 @@
+{
+  "metadata": {
+    "generated_at": "2025-08-26T22:27:57.975335",
+    "total_questions": 100,
+    "question_distribution": {
+      "factual": 20,
+      "technical": 20,
+      "comparison": 10,
+      "temporal": 10,
+      "analytical": 15,
+      "multi_hop": 10,
+      "numerical": 10,
+      "causal": 5
+    },
+    "description": "Focused evaluation dataset with 100 high-quality questions"
+  },
+  "questions": [
+    {
+      "question": "When was the GEDI mission launched?",
+      "answer": "The GEDI mission was launched on December 5, 2018.",
+      "context": "From the document: 'Launch date 05 Dec 2018'",
+      "keywords": [
+        "GEDI",
+        "launch date",
+        "December 5, 2018"
+      ],
+      "difficulty": "easy",
+      "mission_id": "iss-gedi",
+      "question_type": "factual",
+      "question_id": "849d3361",
+      "relevant_docs": [
+        "iss-gedi"
+      ]
+    },
+    {
+      "question": "What type of instrument does GEDI use to collect data?",
+      "answer": "GEDI uses a LIDAR (light detection and ranging) imaging instrument.",
+      "context": "From the document: 'GEDI utilises a LIDAR (light detection and ranging) imaging instrument...'",
+      "keywords": [
+        "GEDI",
+        "LIDAR",
+        "instrument"
+      ],
+      "difficulty": "medium",
+      "mission_id": "iss-gedi",
+      "question_type": "factual",
+      "question_id": "ca450431",
+      "relevant_docs": [
+        "iss-gedi"
+      ]
+    },
+    {
+      "question": "What is the altitude at which GEDI operates on the ISS?",
+      "answer": "GEDI operates at an altitude of 407 km.",
+      "context": "From the document: 'GEDI orbits the earth with a period of 93 minutes, observing from an altitude of 407 km.'",
+      "keywords": [
+        "GEDI",
+        "altitude",
+        "407 km"
+      ],
+      "difficulty": "easy",
+      "mission_id": "iss-gedi",
+      "question_type": "factual",
+      "question_id": "00bdad3f",
+      "relevant_docs": [
+        "iss-gedi"
+      ]
+    },
+    {
+      "question": "What was the launch date of the ADEOS mission?",
+      "answer": "The launch date of the ADEOS mission was 17 August 1996.",
+      "context": "From the document: 'Launch date 17 Aug 1996'",
+      "keywords": [
+        "launch date",
+        "ADEOS",
+        "mission"
+      ],
+      "difficulty": "easy",
+      "mission_id": "adeos",
+      "question_type": "factual",
+      "question_id": "3b06dd93",
+      "relevant_docs": [
+        "adeos"
+      ]
+    },
+    {
+      "question": "Which agency was primarily responsible for the ADEOS mission?",
+      "answer": "The primary agency responsible for the ADEOS mission was JAXA (Japan Aerospace Exploration Agency).",
+      "context": "From the document: 'Agency JAXA, NASA, CNES, MOE (Japan), MITI (Japan)'",
+      "keywords": [
+        "JAXA",
+        "agency",
+        "ADEOS"
+      ],
+      "difficulty": "medium",
+      "mission_id": "adeos",
+      "question_type": "factual",
+      "question_id": "ba3790fa",
+      "relevant_docs": [
+        "adeos"
+      ]
+    },
+    {
+      "question": "What were the main objectives of the ADEOS mission?",
+      "answer": "The main objectives of the ADEOS mission were to observe changes in the Earth\u2019s atmosphere, track depletion of the ozone layer, and model maritime meteorological conditions.",
+      "context": "From the document: 'The satellite\u2019s objectives were to observe changes in the Earth\u2019s atmosphere, track depletion of the ozone layer and model maritime meteorological conditions.'",
+      "keywords": [
+        "objectives",
+        "ADEOS",
+        "Earth observation"
+      ],
+      "difficulty": "medium",
+      "mission_id": "adeos",
+      "question_type": "factual",
+      "question_id": "65d98c76",
+      "relevant_docs": [
+        "adeos"
+      ]
+    },
+    {
+      "question": "What is the launch date of the EMM Hope Probe?",
+      "answer": "The launch date of the EMM Hope Probe is July 19, 2020.",
+      "context": "From the document: 'Launch date 19 Jul 2020'",
+      "keywords": [
+        "launch date",
+        "EMM Hope Probe"
+      ],
+      "difficulty": "easy",
+      "mission_id": "emm-hope",
+      "question_type": "factual",
+      "question_id": "03a533a3",
+      "relevant_docs": [
+        "emm-hope"
+      ]
+    },
+    {
+      "question": "Which organizations are involved in the development of the EMM Hope Probe?",
+      "answer": "The organizations involved in the development of the EMM Hope Probe include the Mohammed Bin Rashid Space Center (MBRSC), the University of Colorado, Arizona State University, and the University of California, Berkeley.",
+      "context": "From the document: 'It is being built by the Mohammed Bin Rashid Space Center (MBRSC) of Dubai, UAE along with its partners: the University of Colorado, Arizona State University, and the University of California, Berkeley.'",
+      "keywords": [
+        "organizations",
+        "development",
+        "EMM Hope Probe"
+      ],
+      "difficulty": "medium",
+      "mission_id": "emm-hope",
+      "question_type": "factual",
+      "question_id": "67fabf7a",
+      "relevant_docs": [
+        "emm-hope"
+      ]
+    },
+    {
+      "question": "What scientific questions is the EMM Hope Probe aiming to answer?",
+      "answer": "The EMM Hope Probe aims to answer questions about why Mars' atmosphere is losing hydrogen and oxygen into space and the reasons behind Mars' drastic climate changes.",
+      "context": "From the document: 'It will attempt to answer the scientific questions of why Mars' atmosphere is losing hydrogen and oxygen into space and the reason behind Mars' drastic climate changes.'",
+      "keywords": [
+        "scientific questions",
+        "Mars atmosphere",
+        "climate changes"
+      ],
+      "difficulty": "hard",
+      "mission_id": "emm-hope",
+      "question_type": "factual",
+      "question_id": "841e8920",
+      "relevant_docs": [
+        "emm-hope"
+      ]
+    },
+    {
+      "question": "What is the primary purpose of the Suomi NPP mission?",
+      "answer": "The primary purpose of the Suomi NPP mission is to demonstrate sensor capabilities and provide data continuity to previous Earth Observing System (EOS) missions.",
+      "context": "From the document: 'Suomi NPP is a weather satellite aimed at demonstrating sensor capabilities, as well as provide data continuity to previous Earth Observing System (EOS) missions initiated by the National Aeronautics and Space Administration (NASA).'",
+      "keywords": [
+        "Suomi NPP",
+        "mission purpose",
+        "sensor capabilities"
+      ],
+      "difficulty": "easy",
+      "mission_id": "suomi-npp",
+      "question_type": "factual",
+      "question_id": "d42eca7d",
+      "relevant_docs": [
+        "suomi-npp"
+      ]
+    },
+    {
+      "question": "Which agencies operate the Suomi NPP satellite?",
+      "answer": "The Suomi NPP satellite is operated by NASA and the National Oceanic and Atmospheric Administration (NOAA).",
+      "context": "From the document: 'Suomi NPP is operated by NASA and the National Oceanic and Atmospheric Administration (NOAA)...'",
+      "keywords": [
+        "NASA",
+        "NOAA",
+        "operating agencies"
+      ],
+      "difficulty": "easy",
+      "mission_id": "suomi-npp",
+      "question_type": "factual",
+      "question_id": "f6d4e2a5",
+      "relevant_docs": [
+        "suomi-npp"
+      ]
+    },
+    {
+      "question": "When was the Suomi NPP satellite launched?",
+      "answer": "The Suomi NPP satellite was launched on October 28, 2011.",
+      "context": "From the document: 'Launch date: 28 Oct 2011'",
+      "keywords": [
+        "launch date",
+        "October 2011",
+        "Suomi NPP"
+      ],
+      "difficulty": "easy",
+      "mission_id": "suomi-npp",
+      "question_type": "factual",
+      "question_id": "209d67b9",
+      "relevant_docs": [
+        "suomi-npp"
+      ]
+    },
+    {
+      "question": "What was the launch date of the ST5 mission?",
+      "answer": "The launch date of the ST5 mission was 22 March 2006.",
+      "context": "From the document: 'Launch date 22 Mar 2006'",
+      "keywords": [
+        "launch date",
+        "ST5",
+        "Space Technology 5"
+      ],
+      "difficulty": "easy",
+      "mission_id": "st5",
+      "question_type": "factual",
+      "question_id": "f2aa0c49",
+      "relevant_docs": [
+        "st5"
+      ]
+    },
+    {
+      "question": "What was the primary objective of the ST5 mission?",
+      "answer": "The primary objective of the ST5 mission was to measure the effect of solar activity on the Earth's magnetosphere.",
+      "context": "From the document: 'The science objectives are to measure the effect of solar activity on the Earth's magnetosphere.'",
+      "keywords": [
+        "objective",
+        "solar activity",
+        "magnetosphere"
+      ],
+      "difficulty": "medium",
+      "mission_id": "st5",
+      "question_type": "factual",
+      "question_id": "63e2a964",
+      "relevant_docs": [
+        "st5"
+      ]
+    },
+    {
+      "question": "How many spacecraft were involved in the ST5 mission?",
+      "answer": "The ST5 mission involved a constellation of three spacecraft.",
+      "context": "From the document: 'ST5 is a NASA mission within NMP (New Millennium Program) to test innovative concepts and new technologies for future missions in a microsatellite constellation of three spacecraft.'",
+      "keywords": [
+        "spacecraft",
+        "constellation",
+        "ST5"
+      ],
+      "difficulty": "easy",
+      "mission_id": "st5",
+      "question_type": "factual",
+      "question_id": "d1440325",
+      "relevant_docs": [
+        "st5"
+      ]
+    },
+    {
+      "question": "What was the launch date of the GeneSat-1 nanosatellite?",
+      "answer": "The launch date of the GeneSat-1 nanosatellite was December 16, 2006.",
+      "context": "From the document: 'Launch date 16 Dec 2006'",
+      "keywords": [
+        "launch date",
+        "GeneSat-1",
+        "December 16, 2006"
+      ],
+      "difficulty": "easy",
+      "mission_id": "genesat",
+      "question_type": "factual",
+      "question_id": "44d5b178",
+      "relevant_docs": [
+        "genesat"
+      ]
+    },
+    {
+      "question": "What is the mass of the GeneSat-1 nanosatellite?",
+      "answer": "The mass of the GeneSat-1 nanosatellite is about 4.1 kg.",
+      "context": "From the document: 'the entire satellite is about 100 mm x 100 mm x 340 mm in size with a mass of about 4.1 kg.'",
+      "keywords": [
+        "mass",
+        "GeneSat-1",
+        "4.1 kg"
+      ],
+      "difficulty": "easy",
+      "mission_id": "genesat",
+      "question_type": "factual",
+      "question_id": "347708ad",
+      "relevant_docs": [
+        "genesat"
+      ]
+    },
+    {
+      "question": "What was one of the specific mission requirements for GeneSat-1?",
+      "answer": "One specific mission requirement was to develop and test a flight-ready autonomous technology demonstration platform and to design advanced sensors to exploit cellular or microscopic organisms in a small form factor.",
+      "context": "From the document: 'Specific mission requirements are: 1) To develop and test a flight-ready autonomous technology demonstration platform and to design advanced sensors to exploit cellular or microscopic organisms in a small form factor (miniaturized systems).'",
+      "keywords": [
+        "mission requirements",
+        "autonomous technology",
+        "sensors"
+      ],
+      "difficulty": "medium",
+      "mission_id": "genesat",
+      "question_type": "factual",
+      "question_id": "2e49387e",
+      "relevant_docs": [
+        "genesat"
+      ]
+    },
+    {
+      "question": "What is the primary purpose of the OCO-3 mission?",
+      "answer": "The primary purpose of the OCO-3 mission is to monitor carbon dioxide and its changes throughout space and time in response to growing populations and varying patterns of fossil fuel consumption.",
+      "context": "From the document: 'OCO-3 monitors carbon dioxide and its changes throughout space and time in response to growing populations and varying patterns of fossil fuel consumption.'",
+      "keywords": [
+        "OCO-3",
+        "carbon dioxide",
+        "monitoring"
+      ],
+      "difficulty": "easy",
+      "mission_id": "iss-oco-3",
+      "question_type": "factual",
+      "question_id": "93940125",
+      "relevant_docs": [
+        "iss-oco-3"
+      ]
+    },
+    {
+      "question": "What instruments does OCO-3 use to measure atmospheric gases?",
+      "answer": "OCO-3 consists of three spectrometers that measure the intensity of sunlight reflected from the Earth's surface to calculate the abundance of carbon dioxide and oxygen in the atmosphere.",
+      "context": "From the document: 'OCO-3 consists of three spectrometers that measure the intensity of sunlight reflected from the Earth's surface. Carbon dioxide and oxygen absorb light at different wavelengths and as such, the abundance of both molecules in the atmosphere can be calculated by measuring the intensity of different wavelength bands.'",
+      "keywords": [
+        "spectrometers",
+        "atmospheric gases",
+        "OCO-3"
+      ],
+      "difficulty": "medium",
+      "mission_id": "iss-oco-3",
+      "question_type": "factual",
+      "question_id": "f1ac1852",
+      "relevant_docs": [
+        "iss-oco-3"
+      ]
+    },
+    {
+      "question": "What type of laser system does the GEDI instrument utilize?",
+      "answer": "GEDI utilizes a HOMER (High Output Maximum Efficiency Resonator) class laser system.",
+      "context": "From the document: 'GEDI utilises a LIDAR (light detection and ranging) imaging instrument, consisting of three laser transmitters. The three lasers are selected from the HOMER (High Output Maximum Efficiency Resonator) class laser system.'",
+      "keywords": [
+        "GEDI",
+        "HOMER",
+        "laser system"
+      ],
+      "difficulty": "easy",
+      "mission_id": "iss-gedi",
+      "question_type": "technical",
+      "question_id": "d205ed67",
+      "relevant_docs": [
+        "iss-gedi"
+      ]
+    },
+    {
+      "question": "What is the wavelength of the laser beams transmitted by GEDI?",
+      "answer": "Each laser beam is transmitted at a wavelength of 1064 nm.",
+      "context": "From the document: 'Each laser beam is transmitted at a wavelength of 1064 nm.'",
+      "keywords": [
+        "wavelength",
+        "laser beams",
+        "GEDI"
+      ],
+      "difficulty": "easy",
+      "mission_id": "iss-gedi",
+      "question_type": "technical",
+      "question_id": "28ab099c",
+      "relevant_docs": [
+        "iss-gedi"
+      ]
+    },
+    {
+      "question": "How does GEDI achieve its total across-track swath width of 5.4 km?",
+      "answer": "GEDI achieves its total across-track swath width of 5.4 km by using optical dithering, directing the five beams across-track to produce a total of eight tracks, equally spaced at approximately 600 m.",
+      "context": "From the document: 'The five beams undergo optical dithering, directed across-track, to produce a total of eight tracks, equally spaced at approximately 600 m. This achieves a total across-track swath width of 5.4 km.'",
+      "keywords": [
+        "across-track swath",
+        "optical dithering",
+        "GEDI"
+      ],
+      "difficulty": "medium",
+      "mission_id": "iss-gedi",
+      "question_type": "technical",
+      "question_id": "63bb2b2a",
+      "relevant_docs": [
+        "iss-gedi"
+      ]
+    },
+    {
+      "question": "What instruments were used on the ADEOS satellite to measure ocean color and sea surface temperature?",
+      "answer": "The Ocean Colour and Temperature Scanner (OCTS) was used to measure ocean color and sea surface temperature.",
+      "context": "From the document: 'The Ocean Colour and Temperature Scanner (OCTS) was a whiskbroom radiometer, measuring ocean colour and sea surface temperature.'",
+      "keywords": [
+        "OCTS",
+        "ocean color",
+        "sea surface temperature"
+      ],
+      "difficulty": "medium",
+      "mission_id": "adeos",
+      "question_type": "technical",
+      "question_id": "9dbd6fee",
+      "relevant_docs": [
+        "adeos"
+      ]
+    },
+    {
+      "question": "What was the primary purpose of the NASA Scatterometer (NSCAT) on the ADEOS mission?",
+      "answer": "The primary purpose of the NASA Scatterometer (NSCAT) was to derive wind speeds over bodies of water using fan-beam Doppler signals.",
+      "context": "From the document: 'NASA\u2019s Scatterometer (NSCAT) used fan-beam Doppler signals to derive wind speeds over bodies of water.'",
+      "keywords": [
+        "NSCAT",
+        "wind speeds",
+        "Doppler signals"
+      ],
+      "difficulty": "medium",
+      "mission_id": "adeos",
+      "question_type": "technical",
+      "question_id": "52e0af88",
+      "relevant_docs": [
+        "adeos"
+      ]
+    },
+    {
+      "question": "How did the Total Ozone Mapping Spectrometer (TOMS) contribute to the ADEOS mission objectives?",
+      "answer": "The Total Ozone Mapping Spectrometer (TOMS) tracked the composition of Earth's ozone layer by measuring the albedo of earth\u2019s upper atmosphere.",
+      "context": "From the document: 'The Total Ozone Mapping Spectrometer (TOMS) tracked the composition of Earth's ozone layer by measuring the albedo of earth\u2019s upper atmosphere.'",
+      "keywords": [
+        "TOMS",
+        "ozone layer",
+        "albedo"
+      ],
+      "difficulty": "medium",
+      "mission_id": "adeos",
+      "question_type": "technical",
+      "question_id": "de614dcb",
+      "relevant_docs": [
+        "adeos"
+      ]
+    },
+    {
+      "question": "What are the primary scientific objectives of the EMM Hope Probe?",
+      "answer": "The primary scientific objectives of the EMM Hope Probe are to study daily and seasonal weather cycles, weather events in the lower atmosphere such as dust storms, and to investigate why Mars is losing its upper atmosphere to space by tracking the behavior and escape of hydrogen and oxygen.",
+      "context": "From the document: The probe will study daily and seasonal weather cycles, weather events in the lower atmosphere such as dust storms, and how the weather varies in different regions of Mars. It will attempt to answer the scientific questions of why Mars' atmosphere is losing hydrogen and oxygen into space and the reason behind Mars' drastic climate changes.",
+      "keywords": [
+        "scientific objectives",
+        "weather cycles",
+        "Mars atmosphere"
+      ],
+      "difficulty": "medium",
+      "mission_id": "emm-hope",
+      "question_type": "technical",
+      "question_id": "9b269766",
+      "relevant_docs": [
+        "emm-hope"
+      ]
+    },
+    {
+      "question": "What institutions collaborated with the Mohammed Bin Rashid Space Center in the development of the Hope Probe?",
+      "answer": "The institutions that collaborated with the Mohammed Bin Rashid Space Center in the development of the Hope Probe are the University of Colorado, Arizona State University, and the University of California, Berkeley.",
+      "context": "From the document: The probe is being built by the Mohammed Bin Rashid Space Center (MBRSC) of Dubai, UAE along with its partners: the University of Colorado, Arizona State University, and the University of California, Berkeley.",
+      "keywords": [
+        "collaboration",
+        "institutions",
+        "Hope Probe"
+      ],
+      "difficulty": "easy",
+      "mission_id": "emm-hope",
+      "question_type": "technical",
+      "question_id": "7ac6641e",
+      "relevant_docs": [
+        "emm-hope"
+      ]
+    },
+    {
+      "question": "What is the expected timeline for the Hope Probe to enter Mars' orbit?",
+      "answer": "The Hope Probe is expected to enter Mars' orbit in 2021, following a journey of several months after its launch on July 19, 2020.",
+      "context": "From the document: Following a journey of several months, the probe is expected to enter the Red Planet\u2019s orbit in 2021, coinciding with the Golden Jubilee of the Union.",
+      "keywords": [
+        "timeline",
+        "Mars orbit",
+        "launch date"
+      ],
+      "difficulty": "medium",
+      "mission_id": "emm-hope",
+      "question_type": "technical",
+      "question_id": "6b4d5845",
+      "relevant_docs": [
+        "emm-hope"
+      ]
+    },
+    {
+      "question": "What are the primary measurement domains of the Suomi NPP mission?",
+      "answer": "The primary measurement domains of the Suomi NPP mission are Atmosphere, Ocean, Land, and Snow & Ice.",
+      "context": "From the document: 'Measurement domain: Atmosphere, Ocean, Land, Snow & Ice'",
+      "keywords": [
+        "measurement domains",
+        "Suomi NPP",
+        "Earth observation"
+      ],
+      "difficulty": "easy",
+      "mission_id": "suomi-npp",
+      "question_type": "technical",
+      "question_id": "9be1d62b",
+      "relevant_docs": [
+        "suomi-npp"
+      ]
+    },
+    {
+      "question": "What types of atmospheric measurements does Suomi NPP provide?",
+      "answer": "Suomi NPP provides measurements such as Atmospheric Temperature Fields, Atmospheric Humidity Fields, Ozone, and Trace gases (excluding ozone).",
+      "context": "From the document: 'Measurement category: Atmospheric Temperature Fields, Atmospheric Humidity Fields, Ozone, Trace gases (excluding ozone)'",
+      "keywords": [
+        "atmospheric measurements",
+        "Suomi NPP",
+        "sensor capabilities"
+      ],
+      "difficulty": "medium",
+      "mission_id": "suomi-npp",
+      "question_type": "technical",
+      "question_id": "68adcaf0",
+      "relevant_docs": [
+        "suomi-npp"
+      ]
+    },
+    {
+      "question": "How does Suomi NPP contribute to data continuity for previous Earth Observing System missions?",
+      "answer": "Suomi NPP aims to provide data continuity to previous Earth Observing System (EOS) missions initiated by NASA.",
+      "context": "From the document: 'Suomi NPP is aimed at demonstrating sensor capabilities, as well as provide data continuity to previous Earth Observing System (EOS) missions initiated by the National Aeronautics and Space Administration (NASA)'",
+      "keywords": [
+        "data continuity",
+        "EOS missions",
+        "NASA"
+      ],
+      "difficulty": "hard",
+      "mission_id": "suomi-npp",
+      "question_type": "technical",
+      "question_id": "faf91640",
+      "relevant_docs": [
+        "suomi-npp"
+      ]
+    },
+    {
+      "question": "What are the primary scientific objectives of the ST5 mission?",
+      "answer": "The primary scientific objectives of the ST5 mission are to measure the effect of solar activity on the Earth's magnetosphere.",
+      "context": "From the document: 'The science objectives are to measure the effect of solar activity on the Earth's magnetosphere.'",
+      "keywords": [
+        "scientific objectives",
+        "solar activity",
+        "magnetosphere"
+      ],
+      "difficulty": "medium",
+      "mission_id": "st5",
+      "question_type": "technical",
+      "question_id": "d8a38b79",
+      "relevant_docs": [
+        "st5"
+      ]
+    },
+    {
+      "question": "What type of instruments were used in the ST5 mission?",
+      "answer": "The ST5 mission utilized a fluxgate magnetometer as its primary instrument.",
+      "context": "From the document: 'Instruments: Fluxgate magnetometer.'",
+      "keywords": [
+        "instruments",
+        "fluxgate magnetometer",
+        "ST5"
+      ],
+      "difficulty": "easy",
+      "mission_id": "st5",
+      "question_type": "technical",
+      "question_id": "0e29094a",
+      "relevant_docs": [
+        "st5"
+      ]
+    },
+    {
+      "question": "How does the ST5 mission aim to reduce the costs and mass of future space missions?",
+      "answer": "The ST5 mission aims to dramatically reduce mass, size, power, and costs of the missions by providing acceptable functional capabilities.",
+      "context": "From the document: 'A major objective of ST5 is to dramatically reduce mass, size, power, and costs of the missions by providing acceptable functional capabilities.'",
+      "keywords": [
+        "cost reduction",
+        "mass reduction",
+        "mission objectives"
+      ],
+      "difficulty": "hard",
+      "mission_id": "st5",
+      "question_type": "technical",
+      "question_id": "9a8095dd",
+      "relevant_docs": [
+        "st5"
+      ]
+    },
+    {
+      "question": "What is the primary objective of the GeneSat-1 mission?",
+      "answer": "The primary objective of the GeneSat-1 mission is to study the effects of the microgravity environment on biological cultures, specifically focusing on gene expression.",
+      "context": "From the document: 'The overall objective is to study the effects of the microgravity environment on biological cultures (bacteria, genetic and biological probes to detect \u201cgene expression\u201d) - hence, the label of \u201cGeneSat\u201d mission due to the biological payload.'",
+      "keywords": [
+        "GeneSat-1",
+        "microgravity",
+        "biological cultures"
+      ],
+      "difficulty": "easy",
+      "mission_id": "genesat",
+      "question_type": "technical",
+      "question_id": "0c77947b",
+      "relevant_docs": [
+        "genesat"
+      ]
+    },
+    {
+      "question": "What technology does GeneSat-1 utilize to detect levels of gene expression?",
+      "answer": "GeneSat-1 utilizes Green Fluorescent Protein (GFP) techniques to quantitatively detect levels of gene expression in living cultures.",
+      "context": "From the document: 'The initial GeneSat-1 mission will focus on quantitatively detecting levels of GFP expressed in living cultures.'",
+      "keywords": [
+        "GFP",
+        "gene expression",
+        "detection"
+      ],
+      "difficulty": "medium",
+      "mission_id": "genesat",
+      "question_type": "technical",
+      "question_id": "7197958b",
+      "relevant_docs": [
+        "genesat"
+      ]
+    },
+    {
+      "question": "What are the temperature regulation requirements for the GeneSat-1 payload?",
+      "answer": "The GeneSat-1 payload must regulate the internal temperatures to \u00b1 0.5\u00baC.",
+      "context": "From the document: 'The GeneSat-1 payload must regulate the internal temperatures to \u00b1 0.5\u00baC.'",
+      "keywords": [
+        "temperature regulation",
+        "payload",
+        "GeneSat-1"
+      ],
+      "difficulty": "medium",
+      "mission_id": "genesat",
+      "question_type": "technical",
+      "question_id": "8dfb80ed",
+      "relevant_docs": [
+        "genesat"
+      ]
+    },
+    {
+      "question": "What are the three types of spectrometers used in the OCO-3 mission, and what do they measure?",
+      "answer": "The three types of spectrometers in the OCO-3 mission measure weak carbon dioxide, strong carbon dioxide, and oxygen.",
+      "context": "From the document: 'OCO-3 consists of three spectrometers that measure the intensity of sunlight reflected from the Earth's surface. Each spectrometer measures how much sunlight has been absorbed by a different molecule: weak carbon dioxide, strong carbon dioxide, and oxygen.'",
+      "keywords": [
+        "spectrometers",
+        "measurements",
+        "carbon dioxide",
+        "oxygen"
+      ],
+      "difficulty": "medium",
+      "mission_id": "iss-oco-3",
+      "question_type": "technical",
+      "question_id": "eeaf554b",
+      "relevant_docs": [
+        "iss-oco-3"
+      ]
+    },
+    {
+      "question": "What is the spatial resolution and swath area covered by the OCO-3 instrument?",
+      "answer": "OCO-3 has a spatial resolution of 2.25 km x 0.7 km and observes over a swath area of 4.5 km\u00b2.",
+      "context": "From the document: 'OCO-3 observes over a swath area of 4.5 km2 with a spatial resolution of 2.25 km x 0.7 km (down-track x cross-track).'",
+      "keywords": [
+        "spatial resolution",
+        "swath area",
+        "OCO-3"
+      ],
+      "difficulty": "easy",
+      "mission_id": "iss-oco-3",
+      "question_type": "technical",
+      "question_id": "4aa7b73b",
+      "relevant_docs": [
+        "iss-oco-3"
+      ]
+    },
+    {
+      "question": "How does the GEDI mission's laser technology compare to traditional satellite imaging methods in terms of data collection?",
+      "answer": "GEDI uses LIDAR technology, which provides elevation profiles and detailed information about forest structure, whereas traditional satellite imaging methods typically rely on passive sensors that capture reflected sunlight, offering less detailed topographical data.",
+      "context": "From the document: 'GEDI uses laser-based technology to produce elevation profiles of the Earth\u2019s forests and link this to habitat quality.'",
+      "keywords": [
+        "GEDI",
+        "LIDAR",
+        "satellite imaging"
+      ],
+      "difficulty": "medium",
+      "mission_id": "iss-gedi",
+      "question_type": "comparison",
+      "question_id": "720b89e2",
+      "relevant_docs": [
+        "iss-gedi"
+      ]
+    },
+    {
+      "question": "In what ways does the GEDI mission's operational capabilities differ from typical Earth observation satellites?",
+      "answer": "GEDI is installed on the ISS and utilizes three laser transmitters to create elevation profiles, which is a more specialized approach compared to typical Earth observation satellites that may not have such advanced laser capabilities.",
+      "context": "From the document: 'GEDI utilises a LIDAR (light detection and ranging) imaging instrument, consisting of three laser transmitters.'",
+      "keywords": [
+        "GEDI",
+        "ISS",
+        "Earth observation"
+      ],
+      "difficulty": "medium",
+      "mission_id": "iss-gedi",
+      "question_type": "comparison",
+      "question_id": "5ab2c2d2",
+      "relevant_docs": [
+        "iss-gedi"
+      ]
+    },
+    {
+      "question": "What are the differences in operational status between GEDI and other Earth observation missions that may have been paused or terminated?",
+      "answer": "GEDI operations were paused in March 2023 but resumed nominal science operations in June 2024, indicating a temporary interruption, while other missions may have been permanently terminated.",
+      "context": "From the document: 'GEDI operations were paused in March 2023, and resumed nominal science operations with all three lasers on June 11, 2024.'",
+      "keywords": [
+        "GEDI",
+        "operational status",
+        "Earth observation"
+      ],
+      "difficulty": "medium",
+      "mission_id": "iss-gedi",
+      "question_type": "comparison",
+      "question_id": "3a97c342",
+      "relevant_docs": [
+        "iss-gedi"
+      ]
+    },
+    {
+      "question": "How does the ADEOS mission's measurement capabilities compare to typical Earth observation missions in terms of the variety of atmospheric and oceanic parameters measured?",
+      "answer": "ADEOS measured a wide variety of parameters including atmospheric temperature fields, ocean colour/biology, aerosols, and surface temperatures, which is comparable to or exceeds the capabilities of many typical Earth observation missions.",
+      "context": "From the document: 'ADEOS contained eight scientific instruments... Measurement domain: Atmosphere, Ocean, Land... Measurement category: Atmospheric Temperature Fields, Ocean colour/biology, Aerosols, Multi-purpose imagery (land), Surface temperature (land), Surface temperature (ocean), Atmospheric Humidity Fields, Ozone, Trace gases (excluding ozone).'",
+      "keywords": [
+        "ADEOS",
+        "Earth observation",
+        "measurement capabilities"
+      ],
+      "difficulty": "medium",
+      "mission_id": "adeos",
+      "question_type": "comparison",
+      "question_id": "40f2ce5d",
+      "relevant_docs": [
+        "adeos"
+      ]
+    },
+    {
+      "question": "In what ways do the scientific instruments on ADEOS differ from those typically found on other Earth observation satellites?",
+      "answer": "ADEOS featured unique instruments such as the Ocean Colour and Temperature Scanner (OCTS) and the Total Ozone Mapping Spectrometer (TOMS), which are specialized for measuring ocean color and ozone layer composition, respectively.",
+      "context": "From the document: 'The Ocean Colour and Temperature Scanner (OCTS) was a whiskbroom radiometer, measuring ocean colour and sea surface temperature. The Total Ozone Mapping Spectrometer (TOMS) tracked the composition of Earth's ozone layer.'",
+      "keywords": [
+        "scientific instruments",
+        "OCTS",
+        "TOMS"
+      ],
+      "difficulty": "medium",
+      "mission_id": "adeos",
+      "question_type": "comparison",
+      "question_id": "0d91c236",
+      "relevant_docs": [
+        "adeos"
+      ]
+    },
+    {
+      "question": "How does the operational lifespan of ADEOS compare to other Earth observation satellites launched around the same time?",
+      "answer": "ADEOS had a relatively short operational lifespan of less than one year, from August 17, 1996, to June 30, 1997, which is shorter than many contemporaneous Earth observation satellites that typically operated for several years.",
+      "context": "From the document: 'Launch date: 17 Aug 1996; End of life date: 30/06/1997.'",
+      "keywords": [
+        "operational lifespan",
+        "Earth observation satellites",
+        "ADEOS"
+      ],
+      "difficulty": "easy",
+      "mission_id": "adeos",
+      "question_type": "comparison",
+      "question_id": "82be4de3",
+      "relevant_docs": [
+        "adeos"
+      ]
+    },
+    {
+      "question": "How does the EMM Hope mission's approach to studying Mars' atmosphere compare to previous Mars missions?",
+      "answer": "The EMM Hope mission aims to provide a complete picture of the Martian atmosphere and its layers, which is a unique contribution compared to previous missions that may not have focused on this comprehensive atmospheric analysis.",
+      "context": "From the document: 'The Hope Probe will be the first probe to provide a complete picture of the Martian atmosphere and its layers when it reaches the red planet's orbit in 2021.'",
+      "keywords": [
+        "EMM Hope",
+        "Mars missions",
+        "atmosphere study"
+      ],
+      "difficulty": "medium",
+      "mission_id": "emm-hope",
+      "question_type": "comparison",
+      "question_id": "17ecefc8",
+      "relevant_docs": [
+        "emm-hope"
+      ]
+    },
+    {
+      "question": "In what ways does the EMM Hope mission's collaboration with international institutions differ from typical space missions?",
+      "answer": "The EMM Hope mission is primarily executed by a team of Emirati engineers in collaboration with foreign research institutions, emphasizing a knowledge-based economy in the UAE, which may differ from missions that are predominantly managed by a single national space agency.",
+      "context": "From the document: 'The mission is being carried out by a team of Emirati engineers in collaboration with foreign research institutions, and is a contribution towards a knowledge-based economy in the UAE.'",
+      "keywords": [
+        "collaboration",
+        "international institutions",
+        "UAE"
+      ],
+      "difficulty": "medium",
+      "mission_id": "emm-hope",
+      "question_type": "comparison",
+      "question_id": "92078288",
+      "relevant_docs": [
+        "emm-hope"
+      ]
+    },
+    {
+      "question": "What are the specific scientific objectives of the EMM Hope mission compared to typical Mars exploration missions?",
+      "answer": "The EMM Hope mission specifically aims to study daily and seasonal weather cycles, weather events like dust storms, and the loss of hydrogen and oxygen from Mars' atmosphere, which may not be the primary focus of other Mars exploration missions.",
+      "context": "From the document: 'The probe will study daily and seasonal weather cycles, weather events in the lower atmosphere such as dust storms, and how the weather varies in different regions of Mars.'",
+      "keywords": [
+        "scientific objectives",
+        "Mars exploration",
+        "weather cycles"
+      ],
+      "difficulty": "hard",
+      "mission_id": "emm-hope",
+      "question_type": "comparison",
+      "question_id": "a4b94484",
+      "relevant_docs": [
+        "emm-hope"
+      ]
+    },
+    {
+      "question": "How does the Suomi NPP mission's measurement capabilities compare to those of previous Earth Observing System (EOS) missions?",
+      "answer": "The Suomi NPP mission provides data continuity to previous EOS missions by demonstrating advanced sensor capabilities and expanding the range of environmental measurements.",
+      "context": "From the document: 'Suomi NPP is aimed at demonstrating sensor capabilities, as well as provide data continuity to previous Earth Observing System (EOS) missions initiated by NASA.'",
+      "keywords": [
+        "Suomi NPP",
+        "EOS",
+        "sensor capabilities",
+        "data continuity"
+      ],
+      "difficulty": "medium",
+      "mission_id": "suomi-npp",
+      "question_type": "comparison",
+      "question_id": "fd4e5b48",
+      "relevant_docs": [
+        "suomi-npp"
+      ]
+    },
+    {
+      "question": "When was the GEDI mission installed on the International Space Station?",
+      "answer": "The GEDI mission was installed on the International Space Station in December 2018.",
+      "context": "From the document: 'Installed on the International Space Station (ISS) in December 2018.'",
+      "keywords": [
+        "GEDI",
+        "installation",
+        "ISS",
+        "December 2018"
+      ],
+      "difficulty": "easy",
+      "mission_id": "iss-gedi",
+      "question_type": "temporal",
+      "question_id": "fc55bcd5",
+      "relevant_docs": [
+        "iss-gedi"
+      ]
+    },
+    {
+      "question": "What date did GEDI operations resume after being paused?",
+      "answer": "GEDI operations resumed nominal science operations with all three lasers on June 11, 2024.",
+      "context": "From the document: 'GEDI operations were paused in March 2023, and resumed nominal science operations with all three lasers on June 11, 2024.'",
+      "keywords": [
+        "GEDI",
+        "operations",
+        "resume",
+        "June 11, 2024"
+      ],
+      "difficulty": "medium",
+      "mission_id": "iss-gedi",
+      "question_type": "temporal",
+      "question_id": "d31b7506",
+      "relevant_docs": [
+        "iss-gedi"
+      ]
+    },
+    {
+      "question": "What was the duration of the pause in GEDI operations?",
+      "answer": "The pause in GEDI operations lasted from March 2023 until June 11, 2024.",
+      "context": "From the document: 'GEDI operations were paused in March 2023, and resumed nominal science operations with all three lasers on June 11, 2024.'",
+      "keywords": [
+        "GEDI",
+        "operations",
+        "pause",
+        "duration"
+      ],
+      "difficulty": "hard",
+      "mission_id": "iss-gedi",
+      "question_type": "temporal",
+      "question_id": "43d06266",
+      "relevant_docs": [
+        "iss-gedi"
+      ]
+    },
+    {
+      "question": "When was the ADEOS satellite launched?",
+      "answer": "The ADEOS satellite was launched on 17 August 1996.",
+      "context": "From the document: 'Launch date: 17 Aug 1996'",
+      "keywords": [
+        "launch date",
+        "ADEOS",
+        "1996"
+      ],
+      "difficulty": "easy",
+      "mission_id": "adeos",
+      "question_type": "temporal",
+      "question_id": "da1c9709",
+      "relevant_docs": [
+        "adeos"
+      ]
+    },
+    {
+      "question": "What was the end of life date for the ADEOS mission?",
+      "answer": "The end of life date for the ADEOS mission was 30 June 1997.",
+      "context": "From the document: 'End of life date 30/06/1997'",
+      "keywords": [
+        "end of life",
+        "ADEOS",
+        "1997"
+      ],
+      "difficulty": "easy",
+      "mission_id": "adeos",
+      "question_type": "temporal",
+      "question_id": "b6fb6977",
+      "relevant_docs": [
+        "adeos"
+      ]
+    },
+    {
+      "question": "How long did the ADEOS mission last?",
+      "answer": "The ADEOS mission lasted approximately 11 months.",
+      "context": "From the document: 'Launch date: 17 Aug 1996' and 'End of life date 30/06/1997'",
+      "keywords": [
+        "mission duration",
+        "ADEOS",
+        "11 months"
+      ],
+      "difficulty": "medium",
+      "mission_id": "adeos",
+      "question_type": "temporal",
+      "question_id": "3a4ccff1",
+      "relevant_docs": [
+        "adeos"
+      ]
+    },
+    {
+      "question": "When was the EMM Hope probe launched?",
+      "answer": "The EMM Hope probe was launched on July 19, 2020.",
+      "context": "From the document: 'Launch date 19 Jul 2020'",
+      "keywords": [
+        "launch date",
+        "EMM Hope",
+        "July 2020"
+      ],
+      "difficulty": "easy",
+      "mission_id": "emm-hope",
+      "question_type": "temporal",
+      "question_id": "807d1b7e",
+      "relevant_docs": [
+        "emm-hope"
+      ]
+    },
+    {
+      "question": "In what year is the EMM Hope probe expected to reach Mars orbit?",
+      "answer": "The EMM Hope probe is expected to reach Mars orbit in 2021.",
+      "context": "From the document: 'the probe is expected to enter the Red Planet\u2019s orbit in 2021'",
+      "keywords": [
+        "Mars orbit",
+        "2021",
+        "EMM Hope"
+      ],
+      "difficulty": "easy",
+      "mission_id": "emm-hope",
+      "question_type": "temporal",
+      "question_id": "eb2afd05",
+      "relevant_docs": [
+        "emm-hope"
+      ]
+    },
+    {
+      "question": "What significant event coincides with the EMM Hope probe's arrival at Mars?",
+      "answer": "The arrival of the EMM Hope probe at Mars coincides with the Golden Jubilee of the Union.",
+      "context": "From the document: 'Following a journey of several months, the probe is expected to enter the Red Planet\u2019s orbit in 2021, coinciding with the Golden Jubilee of the Union.'",
+      "keywords": [
+        "Golden Jubilee",
+        "Union",
+        "arrival"
+      ],
+      "difficulty": "medium",
+      "mission_id": "emm-hope",
+      "question_type": "temporal",
+      "question_id": "912d44fb",
+      "relevant_docs": [
+        "emm-hope"
+      ]
+    },
+    {
+      "question": "When was the Suomi NPP satellite launched?",
+      "answer": "The Suomi NPP satellite was launched on October 28, 2011.",
+      "context": "From the document: 'Launch date: 28 Oct 2011'",
+      "keywords": [
+        "launch date",
+        "Suomi NPP",
+        "October 2011"
+      ],
+      "difficulty": "easy",
+      "mission_id": "suomi-npp",
+      "question_type": "temporal",
+      "question_id": "209d67b9",
+      "relevant_docs": [
+        "suomi-npp"
+      ]
+    },
+    {
+      "question": "What are the primary objectives of the GEDI mission in relation to forest ecosystems?",
+      "answer": "The primary objectives of the GEDI mission are to produce elevation profiles of the Earth\u2019s forests and link this data to habitat quality, thereby enhancing the understanding of changes to natural carbon storage within the carbon cycle.",
+      "context": "From the document: 'GEDI uses laser-based technology to produce elevation profiles of the Earth\u2019s forests and link this to habitat quality... The data will give scientists a better understanding of changes to natural carbon storage within the carbon cycle.'",
+      "keywords": [
+        "GEDI",
+        "forest ecosystems",
+        "carbon cycle"
+      ],
+      "difficulty": "medium",
+      "mission_id": "iss-gedi",
+      "question_type": "analytical",
+      "question_id": "7e75184a",
+      "relevant_docs": [
+        "iss-gedi"
+      ]
+    },
+    {
+      "question": "How does the GEDI instrument utilize its laser technology to gather data about the Earth's surface?",
+      "answer": "The GEDI instrument utilizes three laser transmitters to produce elevation profiles by sending laser beams that reflect off the Earth\u2019s surface, which are then collected by an 80 cm telescope to build up the elevation profile.",
+      "context": "From the document: 'GEDI utilises a LIDAR (light detection and ranging) imaging instrument, consisting of three laser transmitters... These collected signals will be used to build up an elevation profile of the area below the satellite.'",
+      "keywords": [
+        "LIDAR",
+        "laser technology",
+        "elevation profiles"
+      ],
+      "difficulty": "medium",
+      "mission_id": "iss-gedi",
+      "question_type": "analytical",
+      "question_id": "0c24e466",
+      "relevant_docs": [
+        "iss-gedi"
+      ]
+    },
+    {
+      "question": "What challenges did the GEDI mission face in its operational timeline, and how were they addressed?",
+      "answer": "The GEDI mission faced a pause in operations in March 2023, but it resumed nominal science operations with all three lasers on June 11, 2024.",
+      "context": "From the document: 'GEDI operations were paused in March 2023, and resumed nominal science operations with all three lasers on June 11, 2024.'",
+      "keywords": [
+        "operational challenges",
+        "mission timeline",
+        "resumption"
+      ],
+      "difficulty": "medium",
+      "mission_id": "iss-gedi",
+      "question_type": "analytical",
+      "question_id": "9e81a3db",
+      "relevant_docs": [
+        "iss-gedi"
+      ]
+    },
+    {
+      "question": "What were the primary scientific objectives of the ADEOS mission?",
+      "answer": "The primary scientific objectives of the ADEOS mission were to observe changes in the Earth\u2019s atmosphere, track depletion of the ozone layer, and model maritime meteorological conditions.",
+      "context": "From the document: 'ADEOS (Advanced Earth Observing Satellite) / Midori... The satellite\u2019s objectives were to observe changes in the Earth\u2019s atmosphere, track depletion of the ozone layer and model maritime meteorological conditions.'",
+      "keywords": [
+        "scientific objectives",
+        "atmosphere",
+        "ozone layer",
+        "maritime meteorology"
+      ],
+      "difficulty": "medium",
+      "mission_id": "adeos",
+      "question_type": "analytical",
+      "question_id": "0ad5350b",
+      "relevant_docs": [
+        "adeos"
+      ]
+    },
+    {
+      "question": "How did the instruments on ADEOS contribute to understanding atmospheric conditions?",
+      "answer": "Instruments like the Total Ozone Mapping Spectrometer (TOMS) tracked the composition of Earth's ozone layer, while the Atmospheric Chemistry instruments measured trace gases and humidity, contributing to a comprehensive understanding of atmospheric conditions.",
+      "context": "From the document: 'The Total Ozone Mapping Spectrometer (TOMS) tracked the composition of Earth's ozone layer by measuring the albedo of earth\u2019s upper atmosphere.' and 'Atmospheric chemistry instruments measured trace gases (excluding ozone) and atmospheric humidity fields.'",
+      "keywords": [
+        "TOMS",
+        "atmospheric conditions",
+        "ozone layer",
+        "trace gases"
+      ],
+      "difficulty": "hard",
+      "mission_id": "adeos",
+      "question_type": "analytical",
+      "question_id": "ede3709d",
+      "relevant_docs": [
+        "adeos"
+      ]
+    },
+    {
+      "question": "What challenges did the ADEOS mission face during its operational period?",
+      "answer": "The ADEOS mission faced challenges related to its operational period, which was cut short, leading to its end of life on June 30, 1997, less than a year after its launch.",
+      "context": "From the document: 'Mission status: Mission complete... End of life date 30/06/1997.'",
+      "keywords": [
+        "mission challenges",
+        "operational period",
+        "end of life"
+      ],
+      "difficulty": "medium",
+      "mission_id": "adeos",
+      "question_type": "analytical",
+      "question_id": "6ae309ab",
+      "relevant_docs": [
+        "adeos"
+      ]
+    },
+    {
+      "question": "What are the primary scientific objectives of the EMM Hope mission?",
+      "answer": "The primary scientific objectives of the EMM Hope mission are to study daily and seasonal weather cycles on Mars, investigate weather events in the lower atmosphere such as dust storms, and understand why Mars is losing its upper atmosphere to space by tracking the behavior and escape of hydrogen and oxygen.",
+      "context": "From the document: The probe will study daily and seasonal weather cycles, weather events in the lower atmosphere such as dust storms, and how the weather varies in different regions of Mars. It will attempt to answer the scientific questions of why Mars' atmosphere is losing hydrogen and oxygen into space and the reason behind Mars' drastic climate changes.",
+      "keywords": [
+        "scientific objectives",
+        "Mars",
+        "atmosphere"
+      ],
+      "difficulty": "medium",
+      "mission_id": "emm-hope",
+      "question_type": "analytical",
+      "question_id": "283fcf25",
+      "relevant_docs": [
+        "emm-hope"
+      ]
+    },
+    {
+      "question": "How does the EMM Hope mission contribute to the UAE's knowledge-based economy?",
+      "answer": "The EMM Hope mission contributes to the UAE's knowledge-based economy by involving a team of Emirati engineers in collaboration with foreign research institutions, thereby fostering local expertise and innovation in space exploration.",
+      "context": "From the document: The mission is being carried out by a team of Emirati engineers in collaboration with foreign research institutions, and is a contribution towards a knowledge-based economy in the UAE.",
+      "keywords": [
+        "knowledge-based economy",
+        "UAE",
+        "collaboration"
+      ],
+      "difficulty": "medium",
+      "mission_id": "emm-hope",
+      "question_type": "analytical",
+      "question_id": "4b261547",
+      "relevant_docs": [
+        "emm-hope"
+      ]
+    },
+    {
+      "question": "What unique aspect of Mars' atmosphere will the EMM Hope probe address that no other mission has focused on?",
+      "answer": "The EMM Hope probe will provide a complete picture of the Martian atmosphere and its layers, specifically addressing the loss of hydrogen and oxygen gases into space over the span of one Martian year.",
+      "context": "From the document: The Hope Probe will be the first probe to provide a complete picture of the Martian atmosphere and its layers when it reaches the red planet's orbit in 2021. It will help answer key questions about the global Martian atmosphere and the loss of hydrogen and oxygen gases into space over the span of one Martian year.",
+      "keywords": [
+        "unique aspect",
+        "Mars atmosphere",
+        "hydrogen and oxygen loss"
+      ],
+      "difficulty": "hard",
+      "mission_id": "emm-hope",
+      "question_type": "analytical",
+      "question_id": "a99ebbd4",
+      "relevant_docs": [
+        "emm-hope"
+      ]
+    },
+    {
+      "question": "What are the primary objectives of the Suomi NPP mission?",
+      "answer": "The primary objectives of the Suomi NPP mission are to demonstrate sensor capabilities and provide data continuity to previous Earth Observing System (EOS) missions.",
+      "context": "From the document: 'Suomi NPP is a weather satellite aimed at demonstrating sensor capabilities, as well as provide data continuity to previous Earth Observing System (EOS) missions initiated by the National Aeronautics and Space Administration (NASA).'",
+      "keywords": [
+        "objectives",
+        "sensor capabilities",
+        "data continuity"
+      ],
+      "difficulty": "medium",
+      "mission_id": "suomi-npp",
+      "question_type": "analytical",
+      "question_id": "9ec82011",
+      "relevant_docs": [
+        "suomi-npp"
+      ]
+    },
+    {
+      "question": "How does Suomi NPP contribute to climate monitoring and environmental observation?",
+      "answer": "Suomi NPP contributes to climate monitoring and environmental observation by providing data on various parameters such as atmospheric temperature, ocean color, aerosols, and surface temperatures.",
+      "context": "From the document: 'Suomi NPP is operated by NASA and the National Oceanic and Atmospheric Administration (NOAA), with the aim of monitoring the environment on Earth and the planet\u2019s climate.'",
+      "keywords": [
+        "climate monitoring",
+        "environmental observation",
+        "data"
+      ],
+      "difficulty": "medium",
+      "mission_id": "suomi-npp",
+      "question_type": "analytical",
+      "question_id": "d214abc4",
+      "relevant_docs": [
+        "suomi-npp"
+      ]
+    },
+    {
+      "question": "What challenges might Suomi NPP face in maintaining data continuity with previous EOS missions?",
+      "answer": "Challenges that Suomi NPP might face in maintaining data continuity include technological advancements in sensor capabilities, potential gaps in data collection due to operational issues, and the need to calibrate new instruments to match the data from previous missions.",
+      "context": "While the document does not explicitly mention challenges, it implies the importance of data continuity and sensor capabilities, which suggests potential issues in maintaining consistency with past data.",
+      "keywords": [
+        "data continuity",
+        "challenges",
+        "EOS missions"
+      ],
+      "difficulty": "hard",
+      "mission_id": "suomi-npp",
+      "question_type": "analytical",
+      "question_id": "e24e2589",
+      "relevant_docs": [
+        "suomi-npp"
+      ]
+    },
+    {
+      "question": "What were the primary objectives of the ST5 mission?",
+      "answer": "The primary objectives of the ST5 mission included the design, development, integration, and operation of full-service microsatellites, achieving accurate research quality measurements, and operating multiple spacecraft as a single constellation.",
+      "context": "From the document: 'The overall ST5 mission goals are: ... \u2022 The design, development, integration, and operation of full service microsatellites (25 kg class) through the use of new technologies ... \u2022 The ability to achieve accurate research quality measurements using this class of spacecraft ... \u2022 The operation of multiple spacecraft to act as a single constellation rather than as individual elements.'",
+      "keywords": [
+        "objectives",
+        "microsatellites",
+        "constellation"
+      ],
+      "difficulty": "medium",
+      "mission_id": "st5",
+      "question_type": "analytical",
+      "question_id": "e442614e",
+      "relevant_docs": [
+        "st5"
+      ]
+    },
+    {
+      "question": "How did the ST5 mission aim to reduce costs and improve functionality in satellite design?",
+      "answer": "The ST5 mission aimed to dramatically reduce mass, size, power, and costs of the missions while providing acceptable functional capabilities through innovative concepts and new technologies.",
+      "context": "From the document: 'A major objective of ST5 is to dramatically reduce mass, size, power, and costs of the missions by providing acceptable functional capabilities.'",
+      "keywords": [
+        "cost reduction",
+        "functionality",
+        "satellite design"
+      ],
+      "difficulty": "medium",
+      "mission_id": "st5",
+      "question_type": "analytical",
+      "question_id": "55845473",
+      "relevant_docs": [
+        "st5"
+      ]
+    },
+    {
+      "question": "In what ways did the ST5 mission serve as a precursor to the Magnetospheric Constellation mission?",
+      "answer": "The ST5 mission served as a precursor to the Magnetospheric Constellation mission by testing and validating methods for operating a constellation of microsatellites as a single system, which is essential for future missions involving multiple nanosatellites.",
+      "context": "From the document: 'ST5 is considered to be a precursor mission to the Magnetospheric Constellation mission, a constellation of many nanosatellites also referred to as DRACO ... The ST5 mission is managed by NASA/GSFC and developed by JPL.'",
+      "keywords": [
+        "precursor",
+        "Magnetospheric Constellation",
+        "nanosatellites"
+      ],
+      "difficulty": "hard",
+      "mission_id": "st5",
+      "question_type": "analytical",
+      "question_id": "93fbe27a",
+      "relevant_docs": [
+        "st5"
+      ]
+    },
+    {
+      "question": "What are the primary scientific objectives of the GEDI mission, and how do they relate to the technology used?",
+      "answer": "The primary scientific objectives of the GEDI mission are to produce elevation profiles of the Earth\u2019s forests and link this to habitat quality, utilizing LIDAR technology to measure above-ground biomass and vegetation canopy cover.",
+      "context": "From the document: 'GEDI uses laser-based technology to produce elevation profiles of the Earth\u2019s forests and link this to habitat quality.' and 'Measurement detailed: Above Ground Biomass (AGB), Vegetation Canopy (cover)'",
+      "keywords": [
+        "GEDI",
+        "scientific objectives",
+        "LIDAR technology"
+      ],
+      "difficulty": "medium",
+      "mission_id": "iss-gedi",
+      "question_type": "multi_hop",
+      "question_id": "0c59490d",
+      "relevant_docs": [
+        "iss-gedi"
+      ]
+    },
+    {
+      "question": "How does the GEDI mission's operational status and timeline relate to its scientific capabilities and the technology it employs?",
+      "answer": "The GEDI mission is currently operational and resumed nominal science operations on June 11, 2024, after a pause in March 2023, which allows it to continue utilizing its LIDAR technology to study forest canopy structure and carbon storage.",
+      "context": "From the document: 'GEDI operations were paused in March 2023, and resumed nominal science operations with all three lasers on June 11, 2024.' and 'The instrument will study a range of climates including forest canopy structure and tundra environments.'",
+      "keywords": [
+        "operational status",
+        "timeline",
+        "scientific capabilities"
+      ],
+      "difficulty": "medium",
+      "mission_id": "iss-gedi",
+      "question_type": "multi_hop",
+      "question_id": "b50f864b",
+      "relevant_docs": [
+        "iss-gedi"
+      ]
+    },
+    {
+      "question": "Compare the laser technology used in GEDI with typical LIDAR systems in terms of reliability and output power.",
+      "answer": "GEDI utilizes a HOMER class laser system that reduces total part count while maximizing reliability, with total beam output power in the range of 10 - 17 mJ, which is comparable to or exceeds typical LIDAR systems.",
+      "context": "From the document: 'The HOMER architecture reduces total part count, while maximising reliability.' and 'Total beam output power is in the range of 10 - 17 mJ.'",
+      "keywords": [
+        "laser technology",
+        "reliability",
+        "output power"
+      ],
+      "difficulty": "hard",
+      "mission_id": "iss-gedi",
+      "question_type": "multi_hop",
+      "question_id": "4fbc9835",
+      "relevant_docs": [
+        "iss-gedi"
+      ]
+    },
+    {
+      "question": "What were the primary objectives of the ADEOS mission, and which instruments were specifically designed to achieve these objectives?",
+      "answer": "The primary objectives of the ADEOS mission were to observe changes in the Earth\u2019s atmosphere, track depletion of the ozone layer, and model maritime meteorological conditions. Instruments designed for these objectives included the Total Ozone Mapping Spectrometer (TOMS) for tracking ozone layer composition and the Ocean Colour and Temperature Scanner (OCTS) for measuring ocean colour and sea surface temperature.",
+      "context": "From the document: 'The satellite\u2019s objectives were to observe changes in the Earth\u2019s atmosphere, track depletion of the ozone layer and model maritime meteorological conditions.' and 'The Total Ozone Mapping Spectrometer (TOMS) tracked the composition of Earth's ozone layer by measuring the albedo of earth\u2019s upper atmosphere. The Ocean Colour and Temperature Scanner (OCTS) was a whiskbroom radiometer, measuring ocean colour and sea surface temperature.'",
+      "keywords": [
+        "ADEOS objectives",
+        "TOMS",
+        "OCTS"
+      ],
+      "difficulty": "medium",
+      "mission_id": "adeos",
+      "question_type": "multi_hop",
+      "question_id": "312f277d",
+      "relevant_docs": [
+        "adeos"
+      ]
+    },
+    {
+      "question": "How did the instruments on ADEOS contribute to understanding atmospheric conditions, and what specific measurements did they provide?",
+      "answer": "Instruments on ADEOS contributed to understanding atmospheric conditions by measuring various parameters such as atmospheric temperature, humidity, and ozone levels. Specific measurements included atmospheric specific humidity, ozone mole fraction, and aerosol optical depth.",
+      "context": "From the document: 'Measurement category includes Atmospheric Temperature Fields, Atmospheric Humidity Fields, Ozone, and Trace gases (excluding ozone).' and 'Measurement detailed includes atmospheric specific humidity (column/profile), O3 Mole Fraction, and Aerosol optical depth (column/profile).'",
+      "keywords": [
+        "atmospheric conditions",
+        "measurements",
+        "instruments"
+      ],
+      "difficulty": "hard",
+      "mission_id": "adeos",
+      "question_type": "multi_hop",
+      "question_id": "db784fd3",
+      "relevant_docs": [
+        "adeos"
+      ]
+    },
+    {
+      "question": "What was the launch and end of life date for the ADEOS mission, and how long did the mission operate?",
+      "answer": "The ADEOS mission was launched on August 17, 1996, and ended its life on June 30, 1997, operating for a total of approximately 11 months.",
+      "context": "From the document: 'Launch date: 17 Aug 1996' and 'End of life date: 30/06/1997.'",
+      "keywords": [
+        "launch date",
+        "end of life",
+        "mission duration"
+      ],
+      "difficulty": "easy",
+      "mission_id": "adeos",
+      "question_type": "multi_hop",
+      "question_id": "bc21c3ac",
+      "relevant_docs": [
+        "adeos"
+      ]
+    },
+    {
+      "question": "What are the main scientific objectives of the EMM Hope Probe, and how do they relate to the Martian atmosphere?",
+      "answer": "The main scientific objectives of the EMM Hope Probe include studying daily and seasonal weather cycles, investigating weather events in the lower atmosphere such as dust storms, and understanding why Mars is losing its upper atmosphere to space by tracking the behavior and escape of hydrogen and oxygen.",
+      "context": "From the document: The probe will study daily and seasonal weather cycles, weather events in the lower atmosphere such as dust storms, and how the weather varies in different regions of Mars. It will attempt to answer the scientific questions of why Mars' atmosphere is losing hydrogen and oxygen into space...",
+      "keywords": [
+        "scientific objectives",
+        "Martian atmosphere",
+        "weather cycles"
+      ],
+      "difficulty": "medium",
+      "mission_id": "emm-hope",
+      "question_type": "multi_hop",
+      "question_id": "0f8e6ec1",
+      "relevant_docs": [
+        "emm-hope"
+      ]
+    },
+    {
+      "question": "How does the EMM Hope Probe's mission contribute to the UAE's knowledge-based economy, and what role do Emirati engineers play in this mission?",
+      "answer": "The EMM Hope Probe's mission contributes to the UAE's knowledge-based economy by involving a team of Emirati engineers who collaborate with foreign research institutions, thereby enhancing local expertise and technological capabilities.",
+      "context": "From the document: The mission is being carried out by a team of Emirati engineers in collaboration with foreign research institutions, and is a contribution towards a knowledge-based economy in the UAE.",
+      "keywords": [
+        "knowledge-based economy",
+        "Emirati engineers",
+        "collaboration"
+      ],
+      "difficulty": "medium",
+      "mission_id": "emm-hope",
+      "question_type": "multi_hop",
+      "question_id": "d39dc3dc",
+      "relevant_docs": [
+        "emm-hope"
+      ]
+    },
+    {
+      "question": "What is the significance of the EMM Hope Probe's expected arrival in Mars' orbit in relation to the UAE's national celebrations?",
+      "answer": "The significance of the EMM Hope Probe's expected arrival in Mars' orbit in 2021 is that it coincides with the Golden Jubilee of the Union, marking 50 years since the formation of the United Arab Emirates.",
+      "context": "From the document: Following a journey of several months, the probe is expected to enter the Red Planet\u2019s orbit in 2021, coinciding with the Golden Jubilee of the Union.",
+      "keywords": [
+        "Mars orbit",
+        "Golden Jubilee",
+        "UAE celebrations"
+      ],
+      "difficulty": "easy",
+      "mission_id": "emm-hope",
+      "question_type": "multi_hop",
+      "question_id": "fd8b1f5c",
+      "relevant_docs": [
+        "emm-hope"
+      ]
+    },
+    {
+      "question": "How does the Suomi NPP mission contribute to climate monitoring, and what specific measurements does it provide to support this objective?",
+      "answer": "The Suomi NPP mission contributes to climate monitoring by providing data continuity to previous Earth Observing System (EOS) missions and measuring various atmospheric and oceanic parameters, including cloud type, atmospheric temperature fields, ocean color, and surface temperature.",
+      "context": "From the document: 'Suomi NPP is operated by NASA and the National Oceanic and Atmospheric Administration (NOAA), with the aim of monitoring the environment on Earth and the planet\u2019s climate.' Additionally, it measures 'Atmospheric Temperature Fields, Ocean colour/biology, Surface temperature (land), and more.'",
+      "keywords": [
+        "Suomi NPP",
+        "climate monitoring",
+        "measurements"
+      ],
+      "difficulty": "medium",
+      "mission_id": "suomi-npp",
+      "question_type": "multi_hop",
+      "question_id": "1d329db8",
+      "relevant_docs": [
+        "suomi-npp"
+      ]
+    },
+    {
+      "question": "What is the wavelength of the laser beams used by the GEDI instrument?",
+      "answer": "1064 nm",
+      "context": "From the document: Each laser beam is transmitted at a wavelength of 1064 nm.",
+      "keywords": [
+        "wavelength",
+        "laser beams",
+        "GEDI"
+      ],
+      "difficulty": "easy",
+      "mission_id": "iss-gedi",
+      "question_type": "numerical",
+      "question_id": "cca24c35",
+      "relevant_docs": [
+        "iss-gedi"
+      ]
+    },
+    {
+      "question": "How many total exit beams are produced by the GEDI instrument?",
+      "answer": "Four exit beams",
+      "context": "From the document: Two beams are operated at maximum power, while the third is split into two beams, creating four exit beams in total.",
+      "keywords": [
+        "exit beams",
+        "GEDI",
+        "lasers"
+      ],
+      "difficulty": "medium",
+      "mission_id": "iss-gedi",
+      "question_type": "numerical",
+      "question_id": "89eef8e5",
+      "relevant_docs": [
+        "iss-gedi"
+      ]
+    },
+    {
+      "question": "What is the total across-track swath width observed by GEDI?",
+      "answer": "5.4 km",
+      "context": "From the document: This achieves a total across-track swath width of 5.4 km.",
+      "keywords": [
+        "swath width",
+        "GEDI",
+        "measurement"
+      ],
+      "difficulty": "medium",
+      "mission_id": "iss-gedi",
+      "question_type": "numerical",
+      "question_id": "bc3e6c5a",
+      "relevant_docs": [
+        "iss-gedi"
+      ]
+    },
+    {
+      "question": "How many scientific instruments were onboard the ADEOS satellite?",
+      "answer": "Eight scientific instruments.",
+      "context": "From the document: 'ADEOS contained eight scientific instruments.'",
+      "keywords": [
+        "scientific instruments",
+        "ADEOS"
+      ],
+      "difficulty": "easy",
+      "mission_id": "adeos",
+      "question_type": "numerical",
+      "question_id": "38e2f4b6",
+      "relevant_docs": [
+        "adeos"
+      ]
+    },
+    {
+      "question": "What was the duration of the ADEOS mission from launch to end of life in days?",
+      "answer": "348 days.",
+      "context": "From the document: 'Launch date: 17 Aug 1996, End of life date: 30/06/1997.' The duration is calculated as 30 June 1997 - 17 August 1996.",
+      "keywords": [
+        "mission duration",
+        "launch date",
+        "end of life date"
+      ],
+      "difficulty": "medium",
+      "mission_id": "adeos",
+      "question_type": "numerical",
+      "question_id": "6e9fd5c0",
+      "relevant_docs": [
+        "adeos"
+      ]
+    },
+    {
+      "question": "What was the launch date of the ADEOS satellite?",
+      "answer": "17 August 1996.",
+      "context": "From the document: 'Launch date: 17 Aug 1996.'",
+      "keywords": [
+        "launch date",
+        "ADEOS"
+      ],
+      "difficulty": "easy",
+      "mission_id": "adeos",
+      "question_type": "numerical",
+      "question_id": "67f5ebb2",
+      "relevant_docs": [
+        "adeos"
+      ]
+    },
+    {
+      "question": "On what date was the EMM Hope Probe launched?",
+      "answer": "The EMM Hope Probe was launched on July 19, 2020.",
+      "context": "From the document: 'Launch date 19 Jul 2020'",
+      "keywords": [
+        "launch date",
+        "EMM Hope Probe"
+      ],
+      "difficulty": "easy",
+      "mission_id": "emm-hope",
+      "question_type": "numerical",
+      "question_id": "d2a9d9eb",
+      "relevant_docs": [
+        "emm-hope"
+      ]
+    },
+    {
+      "question": "In which year is the EMM Hope Probe expected to enter Mars' orbit?",
+      "answer": "The EMM Hope Probe is expected to enter Mars' orbit in 2021.",
+      "context": "From the document: 'the probe is expected to enter the Red Planet\u2019s orbit in 2021'",
+      "keywords": [
+        "Mars orbit",
+        "2021"
+      ],
+      "difficulty": "easy",
+      "mission_id": "emm-hope",
+      "question_type": "numerical",
+      "question_id": "a6994c83",
+      "relevant_docs": [
+        "emm-hope"
+      ]
+    },
+    {
+      "question": "How many months is the journey of the EMM Hope Probe expected to take before reaching Mars?",
+      "answer": "The journey of the EMM Hope Probe is expected to take several months.",
+      "context": "From the document: 'Following a journey of several months, the probe is expected to enter the Red Planet\u2019s orbit in 2021'",
+      "keywords": [
+        "journey duration",
+        "Mars"
+      ],
+      "difficulty": "medium",
+      "mission_id": "emm-hope",
+      "question_type": "numerical",
+      "question_id": "dfb9432a",
+      "relevant_docs": [
+        "emm-hope"
+      ]
+    },
+    {
+      "question": "How many years has the Suomi NPP mission been operational as of October 2023?",
+      "answer": "12 years",
+      "context": "From the document: Suomi NPP was launched on 28 Oct 2011 and is operational (extended).",
+      "keywords": [
+        "Suomi NPP",
+        "operational",
+        "years"
+      ],
+      "difficulty": "medium",
+      "mission_id": "suomi-npp",
+      "question_type": "numerical",
+      "question_id": "f30501de",
+      "relevant_docs": [
+        "suomi-npp"
+      ]
+    },
+    {
+      "question": "How does GEDI's laser technology contribute to understanding changes in natural carbon storage?",
+      "answer": "GEDI uses laser-based technology to produce elevation profiles of the Earth\u2019s forests, which helps link forest structure to habitat quality and provides insights into changes in natural carbon storage within the carbon cycle.",
+      "context": "From the document: GEDI uses laser-based technology to produce elevation profiles of the Earth\u2019s forests and link this to habitat quality... The data will give scientists a better understanding of changes to natural carbon storage within the carbon cycle.",
+      "keywords": [
+        "GEDI",
+        "laser technology",
+        "carbon storage"
+      ],
+      "difficulty": "medium",
+      "mission_id": "iss-gedi",
+      "question_type": "causal",
+      "question_id": "56358f65",
+      "relevant_docs": [
+        "iss-gedi"
+      ]
+    },
+    {
+      "question": "What impact does the operational status of GEDI have on the collection of forest canopy data?",
+      "answer": "The operational status of GEDI allows for the collection of forest canopy data, which was paused in March 2023 but resumed nominal science operations with all three lasers on June 11, 2024.",
+      "context": "From the document: GEDI operations were paused in March 2023, and resumed nominal science operations with all three lasers on June 11, 2024.",
+      "keywords": [
+        "operational status",
+        "forest canopy data",
+        "GEDI"
+      ],
+      "difficulty": "medium",
+      "mission_id": "iss-gedi",
+      "question_type": "causal",
+      "question_id": "4a310bae",
+      "relevant_docs": [
+        "iss-gedi"
+      ]
+    },
+    {
+      "question": "What are the consequences of GEDI's ability to observe a range of climates on ecological research?",
+      "answer": "GEDI's ability to observe a range of climates, including forest canopy structure and tundra environments, allows for comprehensive ecological research and enhances understanding of diverse ecosystems and their responses to climate change.",
+      "context": "From the document: The instrument will study a range of climates including forest canopy structure and tundra environments in the northern latitudes.",
+      "keywords": [
+        "climate observation",
+        "ecological research",
+        "GEDI"
+      ],
+      "difficulty": "hard",
+      "mission_id": "iss-gedi",
+      "question_type": "causal",
+      "question_id": "6c393a1f",
+      "relevant_docs": [
+        "iss-gedi"
+      ]
+    },
+    {
+      "question": "How did the ADEOS mission contribute to tracking the depletion of the ozone layer?",
+      "answer": "The ADEOS mission contributed to tracking the depletion of the ozone layer by utilizing the Total Ozone Mapping Spectrometer (TOMS), which measured the albedo of Earth's upper atmosphere to analyze the composition of the ozone layer.",
+      "context": "From the document: 'The Total Ozone Mapping Spectrometer (TOMS) tracked the composition of Earth's ozone layer by measuring the albedo of earth\u2019s upper atmosphere.'",
+      "keywords": [
+        "ADEOS",
+        "ozone layer",
+        "TOMS"
+      ],
+      "difficulty": "medium",
+      "mission_id": "adeos",
+      "question_type": "causal",
+      "question_id": "c5fef1ed",
+      "relevant_docs": [
+        "adeos"
+      ]
+    },
+    {
+      "question": "What was the impact of ADEOS's ocean color instruments on understanding maritime meteorological conditions?",
+      "answer": "ADEOS's ocean color instruments, particularly the Ocean Colour and Temperature Scanner (OCTS), provided critical data on ocean color and sea surface temperature, which are essential for modeling maritime meteorological conditions.",
+      "context": "From the document: 'The Ocean Colour and Temperature Scanner (OCTS) was a whiskbroom radiometer, measuring ocean colour and sea surface temperature.'",
+      "keywords": [
+        "ADEOS",
+        "ocean color",
+        "maritime meteorological conditions"
+      ],
+      "difficulty": "medium",
+      "mission_id": "adeos",
+      "question_type": "causal",
+      "question_id": "62ff8ce4",
+      "relevant_docs": [
+        "adeos"
+      ]
+    }
+  ]
+}

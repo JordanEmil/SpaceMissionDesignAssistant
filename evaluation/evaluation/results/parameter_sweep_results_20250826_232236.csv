@@ -1,0 +1,2 @@
+query_id,config_top_k,config_threshold,config_temperature,config_response_mode,map_score,mrr_score,correctness,relevancy,faithfulness,bleu_score,total_time
+test1,5,0.35,0.0,compact,0,0,0,0,0,0,0

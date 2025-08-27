@@ -1,0 +1,343 @@
+[
+  {
+    "question": "What type of laser system does the GEDI instrument utilize?",
+    "answer": "GEDI utilizes a HOMER (High Output Maximum Efficiency Resonator) class laser system.",
+    "context": "From the document: 'GEDI utilises a LIDAR (light detection and ranging) imaging instrument, consisting of three laser transmitters. The three lasers are selected from the HOMER (High Output Maximum Efficiency Resonator) class laser system.'",
+    "keywords": [
+      "GEDI",
+      "HOMER",
+      "laser system"
+    ],
+    "difficulty": "easy",
+    "mission_id": "iss-gedi",
+    "question_type": "technical",
+    "question_id": "d205ed67",
+    "relevant_docs": [
+      "iss-gedi"
+    ]
+  },
+  {
+    "question": "What is the wavelength of the laser beams transmitted by GEDI?",
+    "answer": "Each laser beam is transmitted at a wavelength of 1064 nm.",
+    "context": "From the document: 'Each laser beam is transmitted at a wavelength of 1064 nm.'",
+    "keywords": [
+      "wavelength",
+      "laser beams",
+      "GEDI"
+    ],
+    "difficulty": "easy",
+    "mission_id": "iss-gedi",
+    "question_type": "technical",
+    "question_id": "28ab099c",
+    "relevant_docs": [
+      "iss-gedi"
+    ]
+  },
+  {
+    "question": "How does GEDI achieve its total across-track swath width of 5.4 km?",
+    "answer": "GEDI achieves its total across-track swath width of 5.4 km by using optical dithering, directing the five beams across-track to produce a total of eight tracks, equally spaced at approximately 600 m.",
+    "context": "From the document: 'The five beams undergo optical dithering, directed across-track, to produce a total of eight tracks, equally spaced at approximately 600 m. This achieves a total across-track swath width of 5.4 km.'",
+    "keywords": [
+      "across-track swath",
+      "optical dithering",
+      "GEDI"
+    ],
+    "difficulty": "medium",
+    "mission_id": "iss-gedi",
+    "question_type": "technical",
+    "question_id": "63bb2b2a",
+    "relevant_docs": [
+      "iss-gedi"
+    ]
+  },
+  {
+    "question": "What instruments were used on the ADEOS satellite to measure ocean color and sea surface temperature?",
+    "answer": "The Ocean Colour and Temperature Scanner (OCTS) was used to measure ocean color and sea surface temperature.",
+    "context": "From the document: 'The Ocean Colour and Temperature Scanner (OCTS) was a whiskbroom radiometer, measuring ocean colour and sea surface temperature.'",
+    "keywords": [
+      "OCTS",
+      "ocean color",
+      "sea surface temperature"
+    ],
+    "difficulty": "medium",
+    "mission_id": "adeos",
+    "question_type": "technical",
+    "question_id": "9dbd6fee",
+    "relevant_docs": [
+      "adeos"
+    ]
+  },
+  {
+    "question": "What was the primary purpose of the NASA Scatterometer (NSCAT) on the ADEOS mission?",
+    "answer": "The primary purpose of the NASA Scatterometer (NSCAT) was to derive wind speeds over bodies of water using fan-beam Doppler signals.",
+    "context": "From the document: 'NASA\u2019s Scatterometer (NSCAT) used fan-beam Doppler signals to derive wind speeds over bodies of water.'",
+    "keywords": [
+      "NSCAT",
+      "wind speeds",
+      "Doppler signals"
+    ],
+    "difficulty": "medium",
+    "mission_id": "adeos",
+    "question_type": "technical",
+    "question_id": "52e0af88",
+    "relevant_docs": [
+      "adeos"
+    ]
+  },
+  {
+    "question": "How did the Total Ozone Mapping Spectrometer (TOMS) contribute to the ADEOS mission objectives?",
+    "answer": "The Total Ozone Mapping Spectrometer (TOMS) tracked the composition of Earth's ozone layer by measuring the albedo of earth\u2019s upper atmosphere.",
+    "context": "From the document: 'The Total Ozone Mapping Spectrometer (TOMS) tracked the composition of Earth's ozone layer by measuring the albedo of earth\u2019s upper atmosphere.'",
+    "keywords": [
+      "TOMS",
+      "ozone layer",
+      "albedo"
+    ],
+    "difficulty": "medium",
+    "mission_id": "adeos",
+    "question_type": "technical",
+    "question_id": "de614dcb",
+    "relevant_docs": [
+      "adeos"
+    ]
+  },
+  {
+    "question": "What are the primary scientific objectives of the EMM Hope Probe?",
+    "answer": "The primary scientific objectives of the EMM Hope Probe are to study daily and seasonal weather cycles, weather events in the lower atmosphere such as dust storms, and to investigate why Mars is losing its upper atmosphere to space by tracking the behavior and escape of hydrogen and oxygen.",
+    "context": "From the document: The probe will study daily and seasonal weather cycles, weather events in the lower atmosphere such as dust storms, and how the weather varies in different regions of Mars. It will attempt to answer the scientific questions of why Mars' atmosphere is losing hydrogen and oxygen into space and the reason behind Mars' drastic climate changes.",
+    "keywords": [
+      "scientific objectives",
+      "weather cycles",
+      "Mars atmosphere"
+    ],
+    "difficulty": "medium",
+    "mission_id": "emm-hope",
+    "question_type": "technical",
+    "question_id": "9b269766",
+    "relevant_docs": [
+      "emm-hope"
+    ]
+  },
+  {
+    "question": "What institutions collaborated with the Mohammed Bin Rashid Space Center in the development of the Hope Probe?",
+    "answer": "The institutions that collaborated with the Mohammed Bin Rashid Space Center in the development of the Hope Probe are the University of Colorado, Arizona State University, and the University of California, Berkeley.",
+    "context": "From the document: The probe is being built by the Mohammed Bin Rashid Space Center (MBRSC) of Dubai, UAE along with its partners: the University of Colorado, Arizona State University, and the University of California, Berkeley.",
+    "keywords": [
+      "collaboration",
+      "institutions",
+      "Hope Probe"
+    ],
+    "difficulty": "easy",
+    "mission_id": "emm-hope",
+    "question_type": "technical",
+    "question_id": "7ac6641e",
+    "relevant_docs": [
+      "emm-hope"
+    ]
+  },
+  {
+    "question": "What is the expected timeline for the Hope Probe to enter Mars' orbit?",
+    "answer": "The Hope Probe is expected to enter Mars' orbit in 2021, following a journey of several months after its launch on July 19, 2020.",
+    "context": "From the document: Following a journey of several months, the probe is expected to enter the Red Planet\u2019s orbit in 2021, coinciding with the Golden Jubilee of the Union.",
+    "keywords": [
+      "timeline",
+      "Mars orbit",
+      "launch date"
+    ],
+    "difficulty": "medium",
+    "mission_id": "emm-hope",
+    "question_type": "technical",
+    "question_id": "6b4d5845",
+    "relevant_docs": [
+      "emm-hope"
+    ]
+  },
+  {
+    "question": "What are the primary measurement domains of the Suomi NPP mission?",
+    "answer": "The primary measurement domains of the Suomi NPP mission are Atmosphere, Ocean, Land, and Snow & Ice.",
+    "context": "From the document: 'Measurement domain: Atmosphere, Ocean, Land, Snow & Ice'",
+    "keywords": [
+      "measurement domains",
+      "Suomi NPP",
+      "Earth observation"
+    ],
+    "difficulty": "easy",
+    "mission_id": "suomi-npp",
+    "question_type": "technical",
+    "question_id": "9be1d62b",
+    "relevant_docs": [
+      "suomi-npp"
+    ]
+  },
+  {
+    "question": "What types of atmospheric measurements does Suomi NPP provide?",
+    "answer": "Suomi NPP provides measurements such as Atmospheric Temperature Fields, Atmospheric Humidity Fields, Ozone, and Trace gases (excluding ozone).",
+    "context": "From the document: 'Measurement category: Atmospheric Temperature Fields, Atmospheric Humidity Fields, Ozone, Trace gases (excluding ozone)'",
+    "keywords": [
+      "atmospheric measurements",
+      "Suomi NPP",
+      "sensor capabilities"
+    ],
+    "difficulty": "medium",
+    "mission_id": "suomi-npp",
+    "question_type": "technical",
+    "question_id": "68adcaf0",
+    "relevant_docs": [
+      "suomi-npp"
+    ]
+  },
+  {
+    "question": "How does Suomi NPP contribute to data continuity for previous Earth Observing System missions?",
+    "answer": "Suomi NPP aims to provide data continuity to previous Earth Observing System (EOS) missions initiated by NASA.",
+    "context": "From the document: 'Suomi NPP is aimed at demonstrating sensor capabilities, as well as provide data continuity to previous Earth Observing System (EOS) missions initiated by the National Aeronautics and Space Administration (NASA)'",
+    "keywords": [
+      "data continuity",
+      "EOS missions",
+      "NASA"
+    ],
+    "difficulty": "hard",
+    "mission_id": "suomi-npp",
+    "question_type": "technical",
+    "question_id": "faf91640",
+    "relevant_docs": [
+      "suomi-npp"
+    ]
+  },
+  {
+    "question": "What are the primary scientific objectives of the ST5 mission?",
+    "answer": "The primary scientific objectives of the ST5 mission are to measure the effect of solar activity on the Earth's magnetosphere.",
+    "context": "From the document: 'The science objectives are to measure the effect of solar activity on the Earth's magnetosphere.'",
+    "keywords": [
+      "scientific objectives",
+      "solar activity",
+      "magnetosphere"
+    ],
+    "difficulty": "medium",
+    "mission_id": "st5",
+    "question_type": "technical",
+    "question_id": "d8a38b79",
+    "relevant_docs": [
+      "st5"
+    ]
+  },
+  {
+    "question": "What type of instruments were used in the ST5 mission?",
+    "answer": "The ST5 mission utilized a fluxgate magnetometer as its primary instrument.",
+    "context": "From the document: 'Instruments: Fluxgate magnetometer.'",
+    "keywords": [
+      "instruments",
+      "fluxgate magnetometer",
+      "ST5"
+    ],
+    "difficulty": "easy",
+    "mission_id": "st5",
+    "question_type": "technical",
+    "question_id": "0e29094a",
+    "relevant_docs": [
+      "st5"
+    ]
+  },
+  {
+    "question": "How does the ST5 mission aim to reduce the costs and mass of future space missions?",
+    "answer": "The ST5 mission aims to dramatically reduce mass, size, power, and costs of the missions by providing acceptable functional capabilities.",
+    "context": "From the document: 'A major objective of ST5 is to dramatically reduce mass, size, power, and costs of the missions by providing acceptable functional capabilities.'",
+    "keywords": [
+      "cost reduction",
+      "mass reduction",
+      "mission objectives"
+    ],
+    "difficulty": "hard",
+    "mission_id": "st5",
+    "question_type": "technical",
+    "question_id": "9a8095dd",
+    "relevant_docs": [
+      "st5"
+    ]
+  },
+  {
+    "question": "What is the primary objective of the GeneSat-1 mission?",
+    "answer": "The primary objective of the GeneSat-1 mission is to study the effects of the microgravity environment on biological cultures, specifically focusing on gene expression.",
+    "context": "From the document: 'The overall objective is to study the effects of the microgravity environment on biological cultures (bacteria, genetic and biological probes to detect \u201cgene expression\u201d) - hence, the label of \u201cGeneSat\u201d mission due to the biological payload.'",
+    "keywords": [
+      "GeneSat-1",
+      "microgravity",
+      "biological cultures"
+    ],
+    "difficulty": "easy",
+    "mission_id": "genesat",
+    "question_type": "technical",
+    "question_id": "0c77947b",
+    "relevant_docs": [
+      "genesat"
+    ]
+  },
+  {
+    "question": "What technology does GeneSat-1 utilize to detect levels of gene expression?",
+    "answer": "GeneSat-1 utilizes Green Fluorescent Protein (GFP) techniques to quantitatively detect levels of gene expression in living cultures.",
+    "context": "From the document: 'The initial GeneSat-1 mission will focus on quantitatively detecting levels of GFP expressed in living cultures.'",
+    "keywords": [
+      "GFP",
+      "gene expression",
+      "detection"
+    ],
+    "difficulty": "medium",
+    "mission_id": "genesat",
+    "question_type": "technical",
+    "question_id": "7197958b",
+    "relevant_docs": [
+      "genesat"
+    ]
+  },
+  {
+    "question": "What are the temperature regulation requirements for the GeneSat-1 payload?",
+    "answer": "The GeneSat-1 payload must regulate the internal temperatures to \u00b1 0.5\u00baC.",
+    "context": "From the document: 'The GeneSat-1 payload must regulate the internal temperatures to \u00b1 0.5\u00baC.'",
+    "keywords": [
+      "temperature regulation",
+      "payload",
+      "GeneSat-1"
+    ],
+    "difficulty": "medium",
+    "mission_id": "genesat",
+    "question_type": "technical",
+    "question_id": "8dfb80ed",
+    "relevant_docs": [
+      "genesat"
+    ]
+  },
+  {
+    "question": "What are the three types of spectrometers used in the OCO-3 mission, and what do they measure?",
+    "answer": "The three types of spectrometers in the OCO-3 mission measure weak carbon dioxide, strong carbon dioxide, and oxygen.",
+    "context": "From the document: 'OCO-3 consists of three spectrometers that measure the intensity of sunlight reflected from the Earth's surface. Each spectrometer measures how much sunlight has been absorbed by a different molecule: weak carbon dioxide, strong carbon dioxide, and oxygen.'",
+    "keywords": [
+      "spectrometers",
+      "measurements",
+      "carbon dioxide",
+      "oxygen"
+    ],
+    "difficulty": "medium",
+    "mission_id": "iss-oco-3",
+    "question_type": "technical",
+    "question_id": "eeaf554b",
+    "relevant_docs": [
+      "iss-oco-3"
+    ]
+  },
+  {
+    "question": "What is the spatial resolution and swath area covered by the OCO-3 instrument?",
+    "answer": "OCO-3 has a spatial resolution of 2.25 km x 0.7 km and observes over a swath area of 4.5 km\u00b2.",
+    "context": "From the document: 'OCO-3 observes over a swath area of 4.5 km2 with a spatial resolution of 2.25 km x 0.7 km (down-track x cross-track).'",
+    "keywords": [
+      "spatial resolution",
+      "swath area",
+      "OCO-3"
+    ],
+    "difficulty": "easy",
+    "mission_id": "iss-oco-3",
+    "question_type": "technical",
+    "question_id": "4aa7b73b",
+    "relevant_docs": [
+      "iss-oco-3"
+    ]
+  }
+]

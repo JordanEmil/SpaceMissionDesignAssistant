@@ -1,0 +1,172 @@
+[
+  {
+    "question": "What are the primary scientific objectives of the GEDI mission, and how do they relate to the technology used?",
+    "answer": "The primary scientific objectives of the GEDI mission are to produce elevation profiles of the Earth\u2019s forests and link this to habitat quality, utilizing LIDAR technology to measure above-ground biomass and vegetation canopy cover.",
+    "context": "From the document: 'GEDI uses laser-based technology to produce elevation profiles of the Earth\u2019s forests and link this to habitat quality.' and 'Measurement detailed: Above Ground Biomass (AGB), Vegetation Canopy (cover)'",
+    "keywords": [
+      "GEDI",
+      "scientific objectives",
+      "LIDAR technology"
+    ],
+    "difficulty": "medium",
+    "mission_id": "iss-gedi",
+    "question_type": "multi_hop",
+    "question_id": "0c59490d",
+    "relevant_docs": [
+      "iss-gedi"
+    ]
+  },
+  {
+    "question": "How does the GEDI mission's operational status and timeline relate to its scientific capabilities and the technology it employs?",
+    "answer": "The GEDI mission is currently operational and resumed nominal science operations on June 11, 2024, after a pause in March 2023, which allows it to continue utilizing its LIDAR technology to study forest canopy structure and carbon storage.",
+    "context": "From the document: 'GEDI operations were paused in March 2023, and resumed nominal science operations with all three lasers on June 11, 2024.' and 'The instrument will study a range of climates including forest canopy structure and tundra environments.'",
+    "keywords": [
+      "operational status",
+      "timeline",
+      "scientific capabilities"
+    ],
+    "difficulty": "medium",
+    "mission_id": "iss-gedi",
+    "question_type": "multi_hop",
+    "question_id": "b50f864b",
+    "relevant_docs": [
+      "iss-gedi"
+    ]
+  },
+  {
+    "question": "Compare the laser technology used in GEDI with typical LIDAR systems in terms of reliability and output power.",
+    "answer": "GEDI utilizes a HOMER class laser system that reduces total part count while maximizing reliability, with total beam output power in the range of 10 - 17 mJ, which is comparable to or exceeds typical LIDAR systems.",
+    "context": "From the document: 'The HOMER architecture reduces total part count, while maximising reliability.' and 'Total beam output power is in the range of 10 - 17 mJ.'",
+    "keywords": [
+      "laser technology",
+      "reliability",
+      "output power"
+    ],
+    "difficulty": "hard",
+    "mission_id": "iss-gedi",
+    "question_type": "multi_hop",
+    "question_id": "4fbc9835",
+    "relevant_docs": [
+      "iss-gedi"
+    ]
+  },
+  {
+    "question": "What were the primary objectives of the ADEOS mission, and which instruments were specifically designed to achieve these objectives?",
+    "answer": "The primary objectives of the ADEOS mission were to observe changes in the Earth\u2019s atmosphere, track depletion of the ozone layer, and model maritime meteorological conditions. Instruments designed for these objectives included the Total Ozone Mapping Spectrometer (TOMS) for tracking ozone layer composition and the Ocean Colour and Temperature Scanner (OCTS) for measuring ocean colour and sea surface temperature.",
+    "context": "From the document: 'The satellite\u2019s objectives were to observe changes in the Earth\u2019s atmosphere, track depletion of the ozone layer and model maritime meteorological conditions.' and 'The Total Ozone Mapping Spectrometer (TOMS) tracked the composition of Earth's ozone layer by measuring the albedo of earth\u2019s upper atmosphere. The Ocean Colour and Temperature Scanner (OCTS) was a whiskbroom radiometer, measuring ocean colour and sea surface temperature.'",
+    "keywords": [
+      "ADEOS objectives",
+      "TOMS",
+      "OCTS"
+    ],
+    "difficulty": "medium",
+    "mission_id": "adeos",
+    "question_type": "multi_hop",
+    "question_id": "312f277d",
+    "relevant_docs": [
+      "adeos"
+    ]
+  },
+  {
+    "question": "How did the instruments on ADEOS contribute to understanding atmospheric conditions, and what specific measurements did they provide?",
+    "answer": "Instruments on ADEOS contributed to understanding atmospheric conditions by measuring various parameters such as atmospheric temperature, humidity, and ozone levels. Specific measurements included atmospheric specific humidity, ozone mole fraction, and aerosol optical depth.",
+    "context": "From the document: 'Measurement category includes Atmospheric Temperature Fields, Atmospheric Humidity Fields, Ozone, and Trace gases (excluding ozone).' and 'Measurement detailed includes atmospheric specific humidity (column/profile), O3 Mole Fraction, and Aerosol optical depth (column/profile).'",
+    "keywords": [
+      "atmospheric conditions",
+      "measurements",
+      "instruments"
+    ],
+    "difficulty": "hard",
+    "mission_id": "adeos",
+    "question_type": "multi_hop",
+    "question_id": "db784fd3",
+    "relevant_docs": [
+      "adeos"
+    ]
+  },
+  {
+    "question": "What was the launch and end of life date for the ADEOS mission, and how long did the mission operate?",
+    "answer": "The ADEOS mission was launched on August 17, 1996, and ended its life on June 30, 1997, operating for a total of approximately 11 months.",
+    "context": "From the document: 'Launch date: 17 Aug 1996' and 'End of life date: 30/06/1997.'",
+    "keywords": [
+      "launch date",
+      "end of life",
+      "mission duration"
+    ],
+    "difficulty": "easy",
+    "mission_id": "adeos",
+    "question_type": "multi_hop",
+    "question_id": "bc21c3ac",
+    "relevant_docs": [
+      "adeos"
+    ]
+  },
+  {
+    "question": "What are the main scientific objectives of the EMM Hope Probe, and how do they relate to the Martian atmosphere?",
+    "answer": "The main scientific objectives of the EMM Hope Probe include studying daily and seasonal weather cycles, investigating weather events in the lower atmosphere such as dust storms, and understanding why Mars is losing its upper atmosphere to space by tracking the behavior and escape of hydrogen and oxygen.",
+    "context": "From the document: The probe will study daily and seasonal weather cycles, weather events in the lower atmosphere such as dust storms, and how the weather varies in different regions of Mars. It will attempt to answer the scientific questions of why Mars' atmosphere is losing hydrogen and oxygen into space...",
+    "keywords": [
+      "scientific objectives",
+      "Martian atmosphere",
+      "weather cycles"
+    ],
+    "difficulty": "medium",
+    "mission_id": "emm-hope",
+    "question_type": "multi_hop",
+    "question_id": "0f8e6ec1",
+    "relevant_docs": [
+      "emm-hope"
+    ]
+  },
+  {
+    "question": "How does the EMM Hope Probe's mission contribute to the UAE's knowledge-based economy, and what role do Emirati engineers play in this mission?",
+    "answer": "The EMM Hope Probe's mission contributes to the UAE's knowledge-based economy by involving a team of Emirati engineers who collaborate with foreign research institutions, thereby enhancing local expertise and technological capabilities.",
+    "context": "From the document: The mission is being carried out by a team of Emirati engineers in collaboration with foreign research institutions, and is a contribution towards a knowledge-based economy in the UAE.",
+    "keywords": [
+      "knowledge-based economy",
+      "Emirati engineers",
+      "collaboration"
+    ],
+    "difficulty": "medium",
+    "mission_id": "emm-hope",
+    "question_type": "multi_hop",
+    "question_id": "d39dc3dc",
+    "relevant_docs": [
+      "emm-hope"
+    ]
+  },
+  {
+    "question": "What is the significance of the EMM Hope Probe's expected arrival in Mars' orbit in relation to the UAE's national celebrations?",
+    "answer": "The significance of the EMM Hope Probe's expected arrival in Mars' orbit in 2021 is that it coincides with the Golden Jubilee of the Union, marking 50 years since the formation of the United Arab Emirates.",
+    "context": "From the document: Following a journey of several months, the probe is expected to enter the Red Planet\u2019s orbit in 2021, coinciding with the Golden Jubilee of the Union.",
+    "keywords": [
+      "Mars orbit",
+      "Golden Jubilee",
+      "UAE celebrations"
+    ],
+    "difficulty": "easy",
+    "mission_id": "emm-hope",
+    "question_type": "multi_hop",
+    "question_id": "fd8b1f5c",
+    "relevant_docs": [
+      "emm-hope"
+    ]
+  },
+  {
+    "question": "How does the Suomi NPP mission contribute to climate monitoring, and what specific measurements does it provide to support this objective?",
+    "answer": "The Suomi NPP mission contributes to climate monitoring by providing data continuity to previous Earth Observing System (EOS) missions and measuring various atmospheric and oceanic parameters, including cloud type, atmospheric temperature fields, ocean color, and surface temperature.",
+    "context": "From the document: 'Suomi NPP is operated by NASA and the National Oceanic and Atmospheric Administration (NOAA), with the aim of monitoring the environment on Earth and the planet\u2019s climate.' Additionally, it measures 'Atmospheric Temperature Fields, Ocean colour/biology, Surface temperature (land), and more.'",
+    "keywords": [
+      "Suomi NPP",
+      "climate monitoring",
+      "measurements"
+    ],
+    "difficulty": "medium",
+    "mission_id": "suomi-npp",
+    "question_type": "multi_hop",
+    "question_id": "1d329db8",
+    "relevant_docs": [
+      "suomi-npp"
+    ]
+  }
+]

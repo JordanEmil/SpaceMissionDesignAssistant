@@ -1,0 +1,51 @@
+{
+  "k5_t0.35_temp0.0_compact": {
+    "num_queries": 1,
+    "retrieval": {
+      "map": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0,
+        "max": 0
+      },
+      "mrr": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0,
+        "max": 0
+      },
+      "hit_rate": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0,
+        "max": 0
+      }
+    },
+    "generation": {
+      "correctness": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0,
+        "max": 0
+      },
+      "relevancy": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0,
+        "max": 0
+      },
+      "faithfulness": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0,
+        "max": 0
+      },
+      "bleu": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0,
+        "max": 0
+      }
+    }
+  }
+}

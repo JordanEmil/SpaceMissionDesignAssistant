@@ -1,0 +1,259 @@
+[
+  {
+    "question": "What are the primary objectives of the GEDI mission in relation to forest ecosystems?",
+    "answer": "The primary objectives of the GEDI mission are to produce elevation profiles of the Earth\u2019s forests and link this data to habitat quality, thereby enhancing the understanding of changes to natural carbon storage within the carbon cycle.",
+    "context": "From the document: 'GEDI uses laser-based technology to produce elevation profiles of the Earth\u2019s forests and link this to habitat quality... The data will give scientists a better understanding of changes to natural carbon storage within the carbon cycle.'",
+    "keywords": [
+      "GEDI",
+      "forest ecosystems",
+      "carbon cycle"
+    ],
+    "difficulty": "medium",
+    "mission_id": "iss-gedi",
+    "question_type": "analytical",
+    "question_id": "7e75184a",
+    "relevant_docs": [
+      "iss-gedi"
+    ]
+  },
+  {
+    "question": "How does the GEDI instrument utilize its laser technology to gather data about the Earth's surface?",
+    "answer": "The GEDI instrument utilizes three laser transmitters to produce elevation profiles by sending laser beams that reflect off the Earth\u2019s surface, which are then collected by an 80 cm telescope to build up the elevation profile.",
+    "context": "From the document: 'GEDI utilises a LIDAR (light detection and ranging) imaging instrument, consisting of three laser transmitters... These collected signals will be used to build up an elevation profile of the area below the satellite.'",
+    "keywords": [
+      "LIDAR",
+      "laser technology",
+      "elevation profiles"
+    ],
+    "difficulty": "medium",
+    "mission_id": "iss-gedi",
+    "question_type": "analytical",
+    "question_id": "0c24e466",
+    "relevant_docs": [
+      "iss-gedi"
+    ]
+  },
+  {
+    "question": "What challenges did the GEDI mission face in its operational timeline, and how were they addressed?",
+    "answer": "The GEDI mission faced a pause in operations in March 2023, but it resumed nominal science operations with all three lasers on June 11, 2024.",
+    "context": "From the document: 'GEDI operations were paused in March 2023, and resumed nominal science operations with all three lasers on June 11, 2024.'",
+    "keywords": [
+      "operational challenges",
+      "mission timeline",
+      "resumption"
+    ],
+    "difficulty": "medium",
+    "mission_id": "iss-gedi",
+    "question_type": "analytical",
+    "question_id": "9e81a3db",
+    "relevant_docs": [
+      "iss-gedi"
+    ]
+  },
+  {
+    "question": "What were the primary scientific objectives of the ADEOS mission?",
+    "answer": "The primary scientific objectives of the ADEOS mission were to observe changes in the Earth\u2019s atmosphere, track depletion of the ozone layer, and model maritime meteorological conditions.",
+    "context": "From the document: 'ADEOS (Advanced Earth Observing Satellite) / Midori... The satellite\u2019s objectives were to observe changes in the Earth\u2019s atmosphere, track depletion of the ozone layer and model maritime meteorological conditions.'",
+    "keywords": [
+      "scientific objectives",
+      "atmosphere",
+      "ozone layer",
+      "maritime meteorology"
+    ],
+    "difficulty": "medium",
+    "mission_id": "adeos",
+    "question_type": "analytical",
+    "question_id": "0ad5350b",
+    "relevant_docs": [
+      "adeos"
+    ]
+  },
+  {
+    "question": "How did the instruments on ADEOS contribute to understanding atmospheric conditions?",
+    "answer": "Instruments like the Total Ozone Mapping Spectrometer (TOMS) tracked the composition of Earth's ozone layer, while the Atmospheric Chemistry instruments measured trace gases and humidity, contributing to a comprehensive understanding of atmospheric conditions.",
+    "context": "From the document: 'The Total Ozone Mapping Spectrometer (TOMS) tracked the composition of Earth's ozone layer by measuring the albedo of earth\u2019s upper atmosphere.' and 'Atmospheric chemistry instruments measured trace gases (excluding ozone) and atmospheric humidity fields.'",
+    "keywords": [
+      "TOMS",
+      "atmospheric conditions",
+      "ozone layer",
+      "trace gases"
+    ],
+    "difficulty": "hard",
+    "mission_id": "adeos",
+    "question_type": "analytical",
+    "question_id": "ede3709d",
+    "relevant_docs": [
+      "adeos"
+    ]
+  },
+  {
+    "question": "What challenges did the ADEOS mission face during its operational period?",
+    "answer": "The ADEOS mission faced challenges related to its operational period, which was cut short, leading to its end of life on June 30, 1997, less than a year after its launch.",
+    "context": "From the document: 'Mission status: Mission complete... End of life date 30/06/1997.'",
+    "keywords": [
+      "mission challenges",
+      "operational period",
+      "end of life"
+    ],
+    "difficulty": "medium",
+    "mission_id": "adeos",
+    "question_type": "analytical",
+    "question_id": "6ae309ab",
+    "relevant_docs": [
+      "adeos"
+    ]
+  },
+  {
+    "question": "What are the primary scientific objectives of the EMM Hope mission?",
+    "answer": "The primary scientific objectives of the EMM Hope mission are to study daily and seasonal weather cycles on Mars, investigate weather events in the lower atmosphere such as dust storms, and understand why Mars is losing its upper atmosphere to space by tracking the behavior and escape of hydrogen and oxygen.",
+    "context": "From the document: The probe will study daily and seasonal weather cycles, weather events in the lower atmosphere such as dust storms, and how the weather varies in different regions of Mars. It will attempt to answer the scientific questions of why Mars' atmosphere is losing hydrogen and oxygen into space and the reason behind Mars' drastic climate changes.",
+    "keywords": [
+      "scientific objectives",
+      "Mars",
+      "atmosphere"
+    ],
+    "difficulty": "medium",
+    "mission_id": "emm-hope",
+    "question_type": "analytical",
+    "question_id": "283fcf25",
+    "relevant_docs": [
+      "emm-hope"
+    ]
+  },
+  {
+    "question": "How does the EMM Hope mission contribute to the UAE's knowledge-based economy?",
+    "answer": "The EMM Hope mission contributes to the UAE's knowledge-based economy by involving a team of Emirati engineers in collaboration with foreign research institutions, thereby fostering local expertise and innovation in space exploration.",
+    "context": "From the document: The mission is being carried out by a team of Emirati engineers in collaboration with foreign research institutions, and is a contribution towards a knowledge-based economy in the UAE.",
+    "keywords": [
+      "knowledge-based economy",
+      "UAE",
+      "collaboration"
+    ],
+    "difficulty": "medium",
+    "mission_id": "emm-hope",
+    "question_type": "analytical",
+    "question_id": "4b261547",
+    "relevant_docs": [
+      "emm-hope"
+    ]
+  },
+  {
+    "question": "What unique aspect of Mars' atmosphere will the EMM Hope probe address that no other mission has focused on?",
+    "answer": "The EMM Hope probe will provide a complete picture of the Martian atmosphere and its layers, specifically addressing the loss of hydrogen and oxygen gases into space over the span of one Martian year.",
+    "context": "From the document: The Hope Probe will be the first probe to provide a complete picture of the Martian atmosphere and its layers when it reaches the red planet's orbit in 2021. It will help answer key questions about the global Martian atmosphere and the loss of hydrogen and oxygen gases into space over the span of one Martian year.",
+    "keywords": [
+      "unique aspect",
+      "Mars atmosphere",
+      "hydrogen and oxygen loss"
+    ],
+    "difficulty": "hard",
+    "mission_id": "emm-hope",
+    "question_type": "analytical",
+    "question_id": "a99ebbd4",
+    "relevant_docs": [
+      "emm-hope"
+    ]
+  },
+  {
+    "question": "What are the primary objectives of the Suomi NPP mission?",
+    "answer": "The primary objectives of the Suomi NPP mission are to demonstrate sensor capabilities and provide data continuity to previous Earth Observing System (EOS) missions.",
+    "context": "From the document: 'Suomi NPP is a weather satellite aimed at demonstrating sensor capabilities, as well as provide data continuity to previous Earth Observing System (EOS) missions initiated by the National Aeronautics and Space Administration (NASA).'",
+    "keywords": [
+      "objectives",
+      "sensor capabilities",
+      "data continuity"
+    ],
+    "difficulty": "medium",
+    "mission_id": "suomi-npp",
+    "question_type": "analytical",
+    "question_id": "9ec82011",
+    "relevant_docs": [
+      "suomi-npp"
+    ]
+  },
+  {
+    "question": "How does Suomi NPP contribute to climate monitoring and environmental observation?",
+    "answer": "Suomi NPP contributes to climate monitoring and environmental observation by providing data on various parameters such as atmospheric temperature, ocean color, aerosols, and surface temperatures.",
+    "context": "From the document: 'Suomi NPP is operated by NASA and the National Oceanic and Atmospheric Administration (NOAA), with the aim of monitoring the environment on Earth and the planet\u2019s climate.'",
+    "keywords": [
+      "climate monitoring",
+      "environmental observation",
+      "data"
+    ],
+    "difficulty": "medium",
+    "mission_id": "suomi-npp",
+    "question_type": "analytical",
+    "question_id": "d214abc4",
+    "relevant_docs": [
+      "suomi-npp"
+    ]
+  },
+  {
+    "question": "What challenges might Suomi NPP face in maintaining data continuity with previous EOS missions?",
+    "answer": "Challenges that Suomi NPP might face in maintaining data continuity include technological advancements in sensor capabilities, potential gaps in data collection due to operational issues, and the need to calibrate new instruments to match the data from previous missions.",
+    "context": "While the document does not explicitly mention challenges, it implies the importance of data continuity and sensor capabilities, which suggests potential issues in maintaining consistency with past data.",
+    "keywords": [
+      "data continuity",
+      "challenges",
+      "EOS missions"
+    ],
+    "difficulty": "hard",
+    "mission_id": "suomi-npp",
+    "question_type": "analytical",
+    "question_id": "e24e2589",
+    "relevant_docs": [
+      "suomi-npp"
+    ]
+  },
+  {
+    "question": "What were the primary objectives of the ST5 mission?",
+    "answer": "The primary objectives of the ST5 mission included the design, development, integration, and operation of full-service microsatellites, achieving accurate research quality measurements, and operating multiple spacecraft as a single constellation.",
+    "context": "From the document: 'The overall ST5 mission goals are: ... \u2022 The design, development, integration, and operation of full service microsatellites (25 kg class) through the use of new technologies ... \u2022 The ability to achieve accurate research quality measurements using this class of spacecraft ... \u2022 The operation of multiple spacecraft to act as a single constellation rather than as individual elements.'",
+    "keywords": [
+      "objectives",
+      "microsatellites",
+      "constellation"
+    ],
+    "difficulty": "medium",
+    "mission_id": "st5",
+    "question_type": "analytical",
+    "question_id": "e442614e",
+    "relevant_docs": [
+      "st5"
+    ]
+  },
+  {
+    "question": "How did the ST5 mission aim to reduce costs and improve functionality in satellite design?",
+    "answer": "The ST5 mission aimed to dramatically reduce mass, size, power, and costs of the missions while providing acceptable functional capabilities through innovative concepts and new technologies.",
+    "context": "From the document: 'A major objective of ST5 is to dramatically reduce mass, size, power, and costs of the missions by providing acceptable functional capabilities.'",
+    "keywords": [
+      "cost reduction",
+      "functionality",
+      "satellite design"
+    ],
+    "difficulty": "medium",
+    "mission_id": "st5",
+    "question_type": "analytical",
+    "question_id": "55845473",
+    "relevant_docs": [
+      "st5"
+    ]
+  },
+  {
+    "question": "In what ways did the ST5 mission serve as a precursor to the Magnetospheric Constellation mission?",
+    "answer": "The ST5 mission served as a precursor to the Magnetospheric Constellation mission by testing and validating methods for operating a constellation of microsatellites as a single system, which is essential for future missions involving multiple nanosatellites.",
+    "context": "From the document: 'ST5 is considered to be a precursor mission to the Magnetospheric Constellation mission, a constellation of many nanosatellites also referred to as DRACO ... The ST5 mission is managed by NASA/GSFC and developed by JPL.'",
+    "keywords": [
+      "precursor",
+      "Magnetospheric Constellation",
+      "nanosatellites"
+    ],
+    "difficulty": "hard",
+    "mission_id": "st5",
+    "question_type": "analytical",
+    "question_id": "93fbe27a",
+    "relevant_docs": [
+      "st5"
+    ]
+  }
+]

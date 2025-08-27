@@ -1,0 +1,175 @@
+[
+  {
+    "question": "When was the GEDI mission installed on the International Space Station?",
+    "answer": "The GEDI mission was installed on the International Space Station in December 2018.",
+    "context": "From the document: 'Installed on the International Space Station (ISS) in December 2018.'",
+    "keywords": [
+      "GEDI",
+      "installation",
+      "ISS",
+      "December 2018"
+    ],
+    "difficulty": "easy",
+    "mission_id": "iss-gedi",
+    "question_type": "temporal",
+    "question_id": "fc55bcd5",
+    "relevant_docs": [
+      "iss-gedi"
+    ]
+  },
+  {
+    "question": "What date did GEDI operations resume after being paused?",
+    "answer": "GEDI operations resumed nominal science operations with all three lasers on June 11, 2024.",
+    "context": "From the document: 'GEDI operations were paused in March 2023, and resumed nominal science operations with all three lasers on June 11, 2024.'",
+    "keywords": [
+      "GEDI",
+      "operations",
+      "resume",
+      "June 11, 2024"
+    ],
+    "difficulty": "medium",
+    "mission_id": "iss-gedi",
+    "question_type": "temporal",
+    "question_id": "d31b7506",
+    "relevant_docs": [
+      "iss-gedi"
+    ]
+  },
+  {
+    "question": "What was the duration of the pause in GEDI operations?",
+    "answer": "The pause in GEDI operations lasted from March 2023 until June 11, 2024.",
+    "context": "From the document: 'GEDI operations were paused in March 2023, and resumed nominal science operations with all three lasers on June 11, 2024.'",
+    "keywords": [
+      "GEDI",
+      "operations",
+      "pause",
+      "duration"
+    ],
+    "difficulty": "hard",
+    "mission_id": "iss-gedi",
+    "question_type": "temporal",
+    "question_id": "43d06266",
+    "relevant_docs": [
+      "iss-gedi"
+    ]
+  },
+  {
+    "question": "When was the ADEOS satellite launched?",
+    "answer": "The ADEOS satellite was launched on 17 August 1996.",
+    "context": "From the document: 'Launch date: 17 Aug 1996'",
+    "keywords": [
+      "launch date",
+      "ADEOS",
+      "1996"
+    ],
+    "difficulty": "easy",
+    "mission_id": "adeos",
+    "question_type": "temporal",
+    "question_id": "da1c9709",
+    "relevant_docs": [
+      "adeos"
+    ]
+  },
+  {
+    "question": "What was the end of life date for the ADEOS mission?",
+    "answer": "The end of life date for the ADEOS mission was 30 June 1997.",
+    "context": "From the document: 'End of life date 30/06/1997'",
+    "keywords": [
+      "end of life",
+      "ADEOS",
+      "1997"
+    ],
+    "difficulty": "easy",
+    "mission_id": "adeos",
+    "question_type": "temporal",
+    "question_id": "b6fb6977",
+    "relevant_docs": [
+      "adeos"
+    ]
+  },
+  {
+    "question": "How long did the ADEOS mission last?",
+    "answer": "The ADEOS mission lasted approximately 11 months.",
+    "context": "From the document: 'Launch date: 17 Aug 1996' and 'End of life date 30/06/1997'",
+    "keywords": [
+      "mission duration",
+      "ADEOS",
+      "11 months"
+    ],
+    "difficulty": "medium",
+    "mission_id": "adeos",
+    "question_type": "temporal",
+    "question_id": "3a4ccff1",
+    "relevant_docs": [
+      "adeos"
+    ]
+  },
+  {
+    "question": "When was the EMM Hope probe launched?",
+    "answer": "The EMM Hope probe was launched on July 19, 2020.",
+    "context": "From the document: 'Launch date 19 Jul 2020'",
+    "keywords": [
+      "launch date",
+      "EMM Hope",
+      "July 2020"
+    ],
+    "difficulty": "easy",
+    "mission_id": "emm-hope",
+    "question_type": "temporal",
+    "question_id": "807d1b7e",
+    "relevant_docs": [
+      "emm-hope"
+    ]
+  },
+  {
+    "question": "In what year is the EMM Hope probe expected to reach Mars orbit?",
+    "answer": "The EMM Hope probe is expected to reach Mars orbit in 2021.",
+    "context": "From the document: 'the probe is expected to enter the Red Planet\u2019s orbit in 2021'",
+    "keywords": [
+      "Mars orbit",
+      "2021",
+      "EMM Hope"
+    ],
+    "difficulty": "easy",
+    "mission_id": "emm-hope",
+    "question_type": "temporal",
+    "question_id": "eb2afd05",
+    "relevant_docs": [
+      "emm-hope"
+    ]
+  },
+  {
+    "question": "What significant event coincides with the EMM Hope probe's arrival at Mars?",
+    "answer": "The arrival of the EMM Hope probe at Mars coincides with the Golden Jubilee of the Union.",
+    "context": "From the document: 'Following a journey of several months, the probe is expected to enter the Red Planet\u2019s orbit in 2021, coinciding with the Golden Jubilee of the Union.'",
+    "keywords": [
+      "Golden Jubilee",
+      "Union",
+      "arrival"
+    ],
+    "difficulty": "medium",
+    "mission_id": "emm-hope",
+    "question_type": "temporal",
+    "question_id": "912d44fb",
+    "relevant_docs": [
+      "emm-hope"
+    ]
+  },
+  {
+    "question": "When was the Suomi NPP satellite launched?",
+    "answer": "The Suomi NPP satellite was launched on October 28, 2011.",
+    "context": "From the document: 'Launch date: 28 Oct 2011'",
+    "keywords": [
+      "launch date",
+      "Suomi NPP",
+      "October 2011"
+    ],
+    "difficulty": "easy",
+    "mission_id": "suomi-npp",
+    "question_type": "temporal",
+    "question_id": "209d67b9",
+    "relevant_docs": [
+      "suomi-npp"
+    ]
+  }
+]

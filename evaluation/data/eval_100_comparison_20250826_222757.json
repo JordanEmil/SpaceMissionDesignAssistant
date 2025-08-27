@@ -1,0 +1,173 @@
+[
+  {
+    "question": "How does the GEDI mission's laser technology compare to traditional satellite imaging methods in terms of data collection?",
+    "answer": "GEDI uses LIDAR technology, which provides elevation profiles and detailed information about forest structure, whereas traditional satellite imaging methods typically rely on passive sensors that capture reflected sunlight, offering less detailed topographical data.",
+    "context": "From the document: 'GEDI uses laser-based technology to produce elevation profiles of the Earth\u2019s forests and link this to habitat quality.'",
+    "keywords": [
+      "GEDI",
+      "LIDAR",
+      "satellite imaging"
+    ],
+    "difficulty": "medium",
+    "mission_id": "iss-gedi",
+    "question_type": "comparison",
+    "question_id": "720b89e2",
+    "relevant_docs": [
+      "iss-gedi"
+    ]
+  },
+  {
+    "question": "In what ways does the GEDI mission's operational capabilities differ from typical Earth observation satellites?",
+    "answer": "GEDI is installed on the ISS and utilizes three laser transmitters to create elevation profiles, which is a more specialized approach compared to typical Earth observation satellites that may not have such advanced laser capabilities.",
+    "context": "From the document: 'GEDI utilises a LIDAR (light detection and ranging) imaging instrument, consisting of three laser transmitters.'",
+    "keywords": [
+      "GEDI",
+      "ISS",
+      "Earth observation"
+    ],
+    "difficulty": "medium",
+    "mission_id": "iss-gedi",
+    "question_type": "comparison",
+    "question_id": "5ab2c2d2",
+    "relevant_docs": [
+      "iss-gedi"
+    ]
+  },
+  {
+    "question": "What are the differences in operational status between GEDI and other Earth observation missions that may have been paused or terminated?",
+    "answer": "GEDI operations were paused in March 2023 but resumed nominal science operations in June 2024, indicating a temporary interruption, while other missions may have been permanently terminated.",
+    "context": "From the document: 'GEDI operations were paused in March 2023, and resumed nominal science operations with all three lasers on June 11, 2024.'",
+    "keywords": [
+      "GEDI",
+      "operational status",
+      "Earth observation"
+    ],
+    "difficulty": "medium",
+    "mission_id": "iss-gedi",
+    "question_type": "comparison",
+    "question_id": "3a97c342",
+    "relevant_docs": [
+      "iss-gedi"
+    ]
+  },
+  {
+    "question": "How does the ADEOS mission's measurement capabilities compare to typical Earth observation missions in terms of the variety of atmospheric and oceanic parameters measured?",
+    "answer": "ADEOS measured a wide variety of parameters including atmospheric temperature fields, ocean colour/biology, aerosols, and surface temperatures, which is comparable to or exceeds the capabilities of many typical Earth observation missions.",
+    "context": "From the document: 'ADEOS contained eight scientific instruments... Measurement domain: Atmosphere, Ocean, Land... Measurement category: Atmospheric Temperature Fields, Ocean colour/biology, Aerosols, Multi-purpose imagery (land), Surface temperature (land), Surface temperature (ocean), Atmospheric Humidity Fields, Ozone, Trace gases (excluding ozone).'",
+    "keywords": [
+      "ADEOS",
+      "Earth observation",
+      "measurement capabilities"
+    ],
+    "difficulty": "medium",
+    "mission_id": "adeos",
+    "question_type": "comparison",
+    "question_id": "40f2ce5d",
+    "relevant_docs": [
+      "adeos"
+    ]
+  },
+  {
+    "question": "In what ways do the scientific instruments on ADEOS differ from those typically found on other Earth observation satellites?",
+    "answer": "ADEOS featured unique instruments such as the Ocean Colour and Temperature Scanner (OCTS) and the Total Ozone Mapping Spectrometer (TOMS), which are specialized for measuring ocean color and ozone layer composition, respectively.",
+    "context": "From the document: 'The Ocean Colour and Temperature Scanner (OCTS) was a whiskbroom radiometer, measuring ocean colour and sea surface temperature. The Total Ozone Mapping Spectrometer (TOMS) tracked the composition of Earth's ozone layer.'",
+    "keywords": [
+      "scientific instruments",
+      "OCTS",
+      "TOMS"
+    ],
+    "difficulty": "medium",
+    "mission_id": "adeos",
+    "question_type": "comparison",
+    "question_id": "0d91c236",
+    "relevant_docs": [
+      "adeos"
+    ]
+  },
+  {
+    "question": "How does the operational lifespan of ADEOS compare to other Earth observation satellites launched around the same time?",
+    "answer": "ADEOS had a relatively short operational lifespan of less than one year, from August 17, 1996, to June 30, 1997, which is shorter than many contemporaneous Earth observation satellites that typically operated for several years.",
+    "context": "From the document: 'Launch date: 17 Aug 1996; End of life date: 30/06/1997.'",
+    "keywords": [
+      "operational lifespan",
+      "Earth observation satellites",
+      "ADEOS"
+    ],
+    "difficulty": "easy",
+    "mission_id": "adeos",
+    "question_type": "comparison",
+    "question_id": "82be4de3",
+    "relevant_docs": [
+      "adeos"
+    ]
+  },
+  {
+    "question": "How does the EMM Hope mission's approach to studying Mars' atmosphere compare to previous Mars missions?",
+    "answer": "The EMM Hope mission aims to provide a complete picture of the Martian atmosphere and its layers, which is a unique contribution compared to previous missions that may not have focused on this comprehensive atmospheric analysis.",
+    "context": "From the document: 'The Hope Probe will be the first probe to provide a complete picture of the Martian atmosphere and its layers when it reaches the red planet's orbit in 2021.'",
+    "keywords": [
+      "EMM Hope",
+      "Mars missions",
+      "atmosphere study"
+    ],
+    "difficulty": "medium",
+    "mission_id": "emm-hope",
+    "question_type": "comparison",
+    "question_id": "17ecefc8",
+    "relevant_docs": [
+      "emm-hope"
+    ]
+  },
+  {
+    "question": "In what ways does the EMM Hope mission's collaboration with international institutions differ from typical space missions?",
+    "answer": "The EMM Hope mission is primarily executed by a team of Emirati engineers in collaboration with foreign research institutions, emphasizing a knowledge-based economy in the UAE, which may differ from missions that are predominantly managed by a single national space agency.",
+    "context": "From the document: 'The mission is being carried out by a team of Emirati engineers in collaboration with foreign research institutions, and is a contribution towards a knowledge-based economy in the UAE.'",
+    "keywords": [
+      "collaboration",
+      "international institutions",
+      "UAE"
+    ],
+    "difficulty": "medium",
+    "mission_id": "emm-hope",
+    "question_type": "comparison",
+    "question_id": "92078288",
+    "relevant_docs": [
+      "emm-hope"
+    ]
+  },
+  {
+    "question": "What are the specific scientific objectives of the EMM Hope mission compared to typical Mars exploration missions?",
+    "answer": "The EMM Hope mission specifically aims to study daily and seasonal weather cycles, weather events like dust storms, and the loss of hydrogen and oxygen from Mars' atmosphere, which may not be the primary focus of other Mars exploration missions.",
+    "context": "From the document: 'The probe will study daily and seasonal weather cycles, weather events in the lower atmosphere such as dust storms, and how the weather varies in different regions of Mars.'",
+    "keywords": [
+      "scientific objectives",
+      "Mars exploration",
+      "weather cycles"
+    ],
+    "difficulty": "hard",
+    "mission_id": "emm-hope",
+    "question_type": "comparison",
+    "question_id": "a4b94484",
+    "relevant_docs": [
+      "emm-hope"
+    ]
+  },
+  {
+    "question": "How does the Suomi NPP mission's measurement capabilities compare to those of previous Earth Observing System (EOS) missions?",
+    "answer": "The Suomi NPP mission provides data continuity to previous EOS missions by demonstrating advanced sensor capabilities and expanding the range of environmental measurements.",
+    "context": "From the document: 'Suomi NPP is aimed at demonstrating sensor capabilities, as well as provide data continuity to previous Earth Observing System (EOS) missions initiated by NASA.'",
+    "keywords": [
+      "Suomi NPP",
+      "EOS",
+      "sensor capabilities",
+      "data continuity"
+    ],
+    "difficulty": "medium",
+    "mission_id": "suomi-npp",
+    "question_type": "comparison",
+    "question_id": "fd4e5b48",
+    "relevant_docs": [
+      "suomi-npp"
+    ]
+  }
+]

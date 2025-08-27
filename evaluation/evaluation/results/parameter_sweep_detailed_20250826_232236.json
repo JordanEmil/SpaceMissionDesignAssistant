@@ -1,0 +1,52 @@
+[
+  {
+    "query_id": "test1",
+    "query": "When was the GEDI mission launched?",
+    "ground_truth": "The GEDI mission was launched on December 5, 2018.",
+    "generated_answer": "",
+    "retrieved_contexts": [],
+    "retrieval_metrics": {
+      "precision_at_k": {},
+      "recall_at_k": {},
+      "f1_at_k": {},
+      "map_score": 0,
+      "mrr_score": 0,
+      "ndcg_at_k": {},
+      "hit_rate": 0
+    },
+    "generation_metrics": {
+      "correctness": 0,
+      "relevancy": 0,
+      "faithfulness": 0,
+      "semantic_similarity": 0,
+      "guideline_adherence": null,
+      "ragas_faithfulness": 0,
+      "ragas_answer_relevancy": 0,
+      "ragas_context_relevancy": 0,
+      "ragas_context_recall": 0,
+      "ragas_context_precision": 0,
+      "ragas_answer_similarity": 0,
+      "ragas_answer_correctness": 0,
+      "bleu_score": 0,
+      "rouge_scores": {},
+      "exact_match": 0,
+      "f1_token_score": 0
+    },
+    "config": {
+      "top_k": 5,
+      "similarity_threshold": 0.35,
+      "temperature": 0.0,
+      "response_mode": "compact",
+      "llm_model": "gpt-4o-mini",
+      "embedding_model": "text-embedding-3-large",
+      "k_values": [
+        5
+      ]
+    },
+    "retrieval_time": 0,
+    "generation_time": 0,
+    "total_time": 0,
+    "timestamp": "2025-08-26T23:22:35.777652",
+    "error": "query, contexts, and response must be provided"
+  }
+]

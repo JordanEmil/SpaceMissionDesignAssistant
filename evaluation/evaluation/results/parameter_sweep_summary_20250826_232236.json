@@ -1,0 +1,68 @@
+{
+  "total_configurations_tested": 1,
+  "best_configurations": {
+    "best_retrieval_map": "k5_t0.35_temp0.0_compact",
+    "best_retrieval_mrr": "k5_t0.35_temp0.0_compact",
+    "best_generation_correctness": "k5_t0.35_temp0.0_compact",
+    "best_generation_relevancy": "k5_t0.35_temp0.0_compact",
+    "best_balanced": "k5_t0.35_temp0.0_compact"
+  },
+  "best_scores": {
+    "map": 0.0,
+    "mrr": 0.0,
+    "correctness": 0.0,
+    "relevancy": 0.0,
+    "balanced": 0.0
+  },
+  "all_results": {
+    "k5_t0.35_temp0.0_compact": {
+      "num_queries": 1,
+      "retrieval": {
+        "map": {
+          "mean": 0.0,
+          "std": 0.0,
+          "min": 0,
+          "max": 0
+        },
+        "mrr": {
+          "mean": 0.0,
+          "std": 0.0,
+          "min": 0,
+          "max": 0
+        },
+        "hit_rate": {
+          "mean": 0.0,
+          "std": 0.0,
+          "min": 0,
+          "max": 0
+        }
+      },
+      "generation": {
+        "correctness": {
+          "mean": 0.0,
+          "std": 0.0,
+          "min": 0,
+          "max": 0
+        },
+        "relevancy": {
+          "mean": 0.0,
+          "std": 0.0,
+          "min": 0,
+          "max": 0
+        },
+        "faithfulness": {
+          "mean": 0.0,
+          "std": 0.0,
+          "min": 0,
+          "max": 0
+        },
+        "bleu": {
+          "mean": 0.0,
+          "std": 0.0,
+          "min": 0,
+          "max": 0
+        }
+      }
+    }
+  }
+}
